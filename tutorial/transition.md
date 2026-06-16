@@ -150,4 +150,4 @@
 * ✔️  **正確 (連接詞)** ： We stayed indoors  **because**  the storm was fierce.
 * ✔️  **正確 (副詞)** ： A fierce storm was approaching.  **Therefore** , we stayed indoors.
 
-`version 1.0`
+`version 1.1`
