@@ -1,77 +1,134 @@
-# 英文文法特訓：轉折詞 (Transitions)
-
-轉折詞（Transitions）在英文寫作與閱讀中扮演著重要的角色。它們像是橋樑，連結不同的句子或段落，讓讀者能更清楚地理解作者的思想邏輯。
+這份修改後的講義將轉折詞依照**「詞性與語法功能」**進行更細緻的分類，並為每一種用法提供專屬的公式與對應的例句。這樣能避免將「副詞」、「連接詞」和「介系詞」混在一起而導致句型造錯的問題。
 
 ---
 
-## 一、 常見轉折詞分類
+# 英文文法特訓：轉折詞 (Transitions) 完全指南
 
-### 1. 表示「遞進與補充」 (Addition)
-用來增加資訊，使內容更豐富。
-* **Moreover / Furthermore**: 此外、而且 (較正式)
-* **In addition / Additionally**: 此外
-* **Besides**: 此外 (口語與書面皆可用)
-* **Also**: 也
-* **範例**: The restaurant serves great food. **Moreover**, the prices are very reasonable.
+轉折詞（Transitions）在寫作中扮演橋樑的角色。然而，許多學習者常因為**混淆了轉折詞的「詞性」**而寫出錯誤的句子。
 
-### 2. 表示「對比與轉折」 (Contrast & Concession)
-用來表示相反或出乎意料的情況。
-* **However**: 然而 (最常見)
+本講義將轉折詞依**「語意分類」**與**「語法功能（詞性）」**進行交叉整理，幫助你掌握正確的句型結構。
+
+---
+
+## 一、 核心語法：三大類轉折詞的公式與標點
+
+在學習個別字彙前，請先掌握以下三種詞性的基本句型公式。**標點符號與結構完全不同：**
+
+| 詞性種類 | 常見字眼 | 句型公式 |
+| :--- | :--- | :--- |
+| **1. 連接副詞**(Conjunctive Adverbs) | *However, Therefore,Moreover, Consequently* | 1. `句子A. 連接副詞, 句子B.` 2. `句子A; 連接副詞, 句子B.` |
+| **2. 從屬連接詞**(Subordinating Conjunctions) | *Although, Whereas,Because, While* | 1. `連接詞 + 句子A, 句子B.` 2. `句子B + 連接詞 + 句子A.` (中間無逗號) |
+| **3. 介系詞片語**(Prepositions) | *Despite, In spite of,In addition to, Because of* | 1. `介系詞 + 名詞/動名詞, 句子B.` 2. `句子B + 介系詞 + 名詞/動名詞.` |
+
+---
+
+## 二、 語意分類與專屬例句
+
+### 1. 表示「對比與轉折」 (Contrast & Concession)
+
+此類別最容易因詞性混淆而造錯句子，請特別注意以下三種不同的句型結構：
+
+#### 💡 A. 連接副詞用法（前後需用句點或分號隔開）
+* **However**: 然而
 * **Nevertheless / Nonetheless**: 儘管如此、然而 (較正式)
 * **On the other hand**: 另一方面
 * **Conversely**: 相反地
-* **Instead**: 反而
-* **Despite / In spite of**: 儘管 (後接名詞或動名詞)
-* **範例**: He studied hard for the exam. **However**, he failed to get a passing grade.
+  * **例句 (However)**: The weather forecast predicted rain. **However**, the sun shone brightly all day.
+  * **例句 (Nevertheless)**: The project faced many technical difficulties; **nevertheless**, the team completed it ahead of schedule.
+  * **例句 (On the other hand)**: Laptops are highly portable. **On the other hand**, desktop computers usually offer better performance.
+
+#### 💡 B. 從屬連接詞用法（直接連接兩個子句）
+* **Whereas**: 而、卻 (用來對比兩個不同的事實)
+* **Although / Even though**: 雖然、儘管
+  * **例句 (Whereas)**: Some people prefer to save their money, **whereas** others like to spend it on experiences.
+  * **例句 (Although)**: **Although** the ticket was very expensive, the concert was worth every penny.
+
+#### 💡 C. 介系詞用法（後面只能接「名詞」或「V-ing」）
+* **Despite / In spite of**: 儘管
+* **Instead of**: 而不是
+  * **例句 (Despite)**: **Despite** the heavy rain, the football match was not canceled.
+  * **例句 (Instead of)**: **Instead of** ordering takeout, we decided to cook dinner ourselves.
+
+---
+
+### 2. 表示「遞進與補充」 (Addition)
+
+#### 💡 A. 連接副詞用法
+* **Moreover / Furthermore**: 此外、而且 (較正式)
+* **In addition / Additionally**: 此外
+* **Besides**: 此外、而且 (語氣較為直接)
+  * **例句 (Moreover)**: Learning a new language improves memory. **Moreover**, it opens up international career opportunities.
+  * **例句 (In addition)**: The hotel provides free Wi-Fi; **in addition**, guests can access the gym for free.
+
+#### 💡 B. 介系詞用法（後接 N / V-ing）
+* **In addition to**: 除了...之外 (還有)
+* **Besides**: 除了...之外 (還有)
+  * **例句 (In addition to)**: **In addition to** playing the piano, she also plays the violin. (除了彈鋼琴外，她還拉小提琴)
+
+---
 
 ### 3. 表示「因果關係」 (Cause & Effect)
-用來說明原因或結果。
-* **Therefore / Consequently**: 因此、結果 (較正式)
+
+#### 💡 A. 連接副詞用法（表示結果）
+* **Therefore / Consequently**: 因此、結果
 * **As a result**: 結果
-* **Thus**: 因此
-* **Hence**: 因此、由此
-* **Accordingly**: 於是、因此
-* **範例**: The heavy rain caused a massive traffic jam. **Consequently**, I was late for the meeting.
+* **Thus / Hence**: 因此、由此
+  * **例句 (Consequently)**: The company failed to adapt to market trends. **Consequently**, its sales dropped significantly.
+  * **例句 (As a result)**: The main road was blocked due to an accident; **as a result**, many commuters were delayed.
+
+#### 💡 B. 從屬連接詞用法（引導原因子句）
+* **Because / Since / As**: 因為、既然
+  * **例句 (Because)**: **Because** the flight was delayed, we missed our connecting flight in Tokyo.
+
+#### 💡 C. 介系詞用法（引導原因名詞）
+* **Because of / Due to / Owing to**: 因為、由於
+  * **例句 (Because of)**: We missed our connecting flight **because of** the flight delay.
+
+---
 
 ### 4. 表示「舉例與闡述」 (Example & Clarification)
-用來補充具體例子或解釋。
+
+#### 💡 A. 連接副詞 / 獨立插入語用法
 * **For example / For instance**: 例如
-* **Specifically**: 具體來說
 * **That is / In other words**: 換句話說
-* **Namely**: 即、就是
-* **範例**: There are many ways to stay healthy. **For instance**, you can exercise regularly and eat a balanced diet.
+* **Namely**: 即、也就是
+  * **例句 (For instance)**: Regular exercise offers many health benefits. **For instance**, it can reduce stress and improve sleep quality.
+  * **例句 (In other words)**: The product is no longer under warranty. **In other words**, you will have to pay for the repairs yourself.
+
+#### 💡 B. 介系詞用法（置於句中，後接名詞）
+* **Such as / Like**: 例如、像...一樣
+  * **例句 (Such as)**: Superfoods **such as** blueberries and spinach are rich in antioxidants.
+
+---
 
 ### 5. 表示「結論與總結」 (Conclusion & Summary)
-用於總結前文內容。
+
+通常放在段落或文章的開頭，作為整段的轉折副詞：
 * **In conclusion**: 總之、最後 (常用於文章結尾)
 * **To sum up / In summary**: 總結來說
 * **Overall**: 整體而言
-* **Finally**: 最後
-* **範例**: **In conclusion**, the new policy has brought more benefits than drawbacks to the community.
+  * **例句 (In conclusion)**: **In conclusion**, early childhood education plays a crucial role in a child's future development.
+  * **例句 (Overall)**: **Overall**, the campaign was highly successful despite the limited budget.
 
 ---
 
-## 二、 轉折詞的標點符號用法
+## 三、 常見易混淆對比與常見錯誤
 
-轉折詞通常作為「副詞」使用，其位置與標點符號非常重要：
+很多時候，語意相同的字，會因為詞性不同而不能隨意替換。以下是寫作中最常見的三種錯誤示範與修正：
 
-### 1. 連接兩個句子 (使用分號或句點)
-* **句點型**: Sentence A. **Transition**, Sentence B.
-  * *He was tired. **However**, he continued working.*
-* **分號型**: Sentence A; **transition**, Sentence B.
-  * *He was tired; **however**, he continued working.*
+### 1. However (副詞) vs. Although (連接詞)
+* ❌ **錯誤**: **However** it was raining, we decided to go for a hike. (However 是副詞，不能直接引導讓步子句)
+* ✔️ **正確**: **Although** it was raining, we decided to go for a hike.
+* ✔️ **正確**: It was raining. **However**, we decided to go for a hike.
 
-### 2. 放在句中 (插入語用法)
-* Sentence B, **transition**, ...
-  * *He was tired. He continued working, **however**, until the task was finished.*
+### 2. Besides (副詞) vs. Besides (介系詞)
+當 `Besides` 作為介系詞時，後面必須接名詞；作為副詞時，後面要放逗號並連接完整句子。
+* ❌ **錯誤**: **Besides** study English, he also learns Japanese.
+* ✔️ **正確 (介系詞)**: **Besides** study**ing** English, he also learns Japanese. (後接 V-ing)
+* ✔️ **正確 (副詞)**: He wants to learn Japanese. **Besides**, he is currently studying English. (獨立成句)
 
----
-
-## 三、 常見易混淆點
-
-* **However vs. Although**: 
-  * `However` 是副詞，不能直接連接兩個子句，通常需要分號或句點。
-  * `Although` 是連接詞，引導一個讓步子句，後面直接接句子。
-  * **範例**: **Although** it was raining, we went out. (✔️)
-  * **範例**: It was raining; **however**, we went out. (✔️)
-  * **範例**: It was raining, **however** we went out. (❌ - 這是常見的錯誤用法)
+### 3. Therefore (副詞) vs. Because (連接詞) vs. Because of (介系詞)
+* ❌ **錯誤**: We stayed indoors **therefore** the storm.
+* ✔️ **正確 (介系詞)**: We stayed indoors **because of** the storm.
+* ✔️ **正確 (連接詞)**: We stayed indoors **because** the storm was fierce.
+* ✔️ **正確 (副詞)**: A fierce storm was approaching. **Therefore**, we stayed indoors.
