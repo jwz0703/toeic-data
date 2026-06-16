@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The company’s sales increased significantly last year. _______, they decided to expand their business to overseas markets.",
+    "hint": "前後句為因果關係：銷售增長，『因此』決定擴張。",
+    "answerOptions": [
+      { "text": "However", "isCorrect": false, "rationale": "However 表示轉折，不符因果邏輯。" },
+      { "text": "Therefore", "isCorrect": true, "rationale": "Therefore 表示「因此」，引導結果。" },
+      { "text": "Besides", "isCorrect": false, "rationale": "Besides 表示補充資訊。" },
+      { "text": "Instead", "isCorrect": false, "rationale": "Instead 表示「反而」。" }
+    ]
+  },
+  {
+    "question": "Learning a new language can be challenging. _______, it provides numerous opportunities for personal growth.",
+    "hint": "前後句為對比關係：雖然挑戰大，『然而』有很多機會。",
+    "answerOptions": [
+      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 用於補充正面資訊，此處需要對比。" },
+      { "text": "Moreover", "isCorrect": false, "rationale": "Moreover 也是用於遞進補充。" },
+      { "text": "Nevertheless", "isCorrect": true, "rationale": "Nevertheless 表示「儘管如此、然而」，適合用於轉折。" },
+      { "text": "Consequently", "isCorrect": false, "rationale": "Consequently 表示因果關係。" }
+    ]
+  },
+  {
+    "question": "The project was completed on time. _______, it stayed within the original budget.",
+    "hint": "前後句為遞進關係：準時完工，『此外』還沒超支。",
+    "answerOptions": [
+      { "text": "In addition", "isCorrect": true, "rationale": "In addition 用於增加一項正面的補充資訊。" },
+      { "text": "On the other hand", "isCorrect": false, "rationale": "On the other hand 用於對比不同的觀點。" },
+      { "text": "Conversely", "isCorrect": false, "rationale": "Conversely 表示「相反地」。" },
+      { "text": "Otherwise", "isCorrect": false, "rationale": "Otherwise 表示「否則」。" }
+    ]
+  },
+  {
+    "question": "The weather forecast predicted sunshine all day; _______, it started raining heavily in the afternoon.",
+    "hint": "注意分號用法，且前後句意相反：預測晴天，『然而』下雨。",
+    "answerOptions": [
+      { "text": "thus", "isCorrect": false, "rationale": "thus 表示因此。" },
+      { "text": "hence", "isCorrect": false, "rationale": "hence 表示因此。" },
+      { "text": "however", "isCorrect": true, "rationale": "however 置於分號後，表示語意轉折。" },
+      { "text": "moreover", "isCorrect": false, "rationale": "moreover 表示遞進。" }
+    ]
+  },
+  {
+    "question": "He didn't have enough experience for the job. _______, the manager decided to hire him because of his potential.",
+    "hint": "儘管經驗不足，『儘管如此』經理還是錄用了他。",
+    "answerOptions": [
+      { "text": "As a result", "isCorrect": false, "rationale": "經驗不足通常不會導致錄用，故非因果。" },
+      { "text": "Nonetheless", "isCorrect": true, "rationale": "Nonetheless 表示「儘管如此」，用於出乎意料的轉折。" },
+      { "text": "For instance", "isCorrect": false, "rationale": "For instance 用於舉例。" },
+      { "text": "Specifically", "isCorrect": false, "rationale": "Specifically 用於具體說明。" }
+    ]
+  }
+]
