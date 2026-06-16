@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Never _______ such a beautiful sunset before.",
+    "hint": "否定副詞 Never 放在句首時，句子需使用倒裝結構（助動詞搬到主詞前）。",
+    "answerOptions": [
+      { "text": "I have seen", "isCorrect": false, "rationale": "這是普通語序，沒有倒裝。" },
+      { "text": "have I seen", "isCorrect": true, "rationale": "Never 放在句首，助動詞 have 需移至主詞 I 之前。" },
+      { "text": "I saw", "isCorrect": false, "rationale": "語序錯誤且時態不符語意。" },
+      { "text": "did I see", "isCorrect": false, "rationale": "雖然有倒裝，但 before 通常與完成式連用。" }
+    ]
+  },
+  {
+    "question": "Only after the meeting _______ the decision.",
+    "hint": "Only + 副詞/介系詞片語/子句放在句首時，主要子句需倒裝。",
+    "answerOptions": [
+      { "text": "did they announce", "isCorrect": true, "rationale": "Only 引導的片語在句首，主句需倒裝，使用助動詞 did。" },
+      { "text": "they announced", "isCorrect": false, "rationale": "缺乏倒裝結構。" },
+      { "text": "announced they", "isCorrect": false, "rationale": "倒裝通常需要助動詞，不能直接移位一般動詞。" },
+      { "text": "they did announce", "isCorrect": false, "rationale": "助動詞位置錯誤。" }
+    ]
+  },
+  {
+    "question": "Under the tree _______ an old man.",
+    "hint": "表示地點的介系詞片語放在句首，且動詞為不及物動詞時，常用完全倒裝（動詞搬到主詞前）。",
+    "answerOptions": [
+      { "text": "sat", "isCorrect": true, "rationale": "地方副詞 + V + S。sat 是不及物動詞，適合完全倒裝。" },
+      { "text": "did sit", "isCorrect": false, "rationale": "地方副詞倒裝通常不加助動詞 did。" },
+      { "text": "an old man sat", "isCorrect": false, "rationale": "這是正常語序，不是倒裝。" },
+      { "text": "sitting", "isCorrect": false, "rationale": "缺乏主要動詞。" }
+    ]
+  },
+  {
+    "question": "_______ for your help, I wouldn't have succeeded.",
+    "hint": "假設語氣中省略 If 的倒裝，Were/Had/Should 搬到句首。",
+    "answerOptions": [
+      { "text": "If it were", "isCorrect": false, "rationale": "若有 If，後面應接 not for。" },
+      { "text": "Were it not", "isCorrect": true, "rationale": "If it were not for... 的倒裝型式為 Were it not for...。" },
+      { "text": "Had it not", "isCorrect": false, "rationale": "Had it not been for... 才是正確的過去完成式倒裝。" },
+      { "text": "It was not", "isCorrect": false, "rationale": "語法錯誤。" }
+    ]
+  },
+  {
+    "question": "It was in that park _______ I first met her.",
+    "hint": "這是強調句型：It is/was [被強調部分] that [剩餘部分]。",
+    "answerOptions": [
+      { "text": "which", "isCorrect": false, "rationale": "強調句固定使用 that。" },
+      { "text": "where", "isCorrect": false, "rationale": "雖然 park 是地點，但強調句型中慣用 that。" },
+      { "text": "that", "isCorrect": true, "rationale": "It was... that... 是標準的強調句結構。" },
+      { "text": "when", "isCorrect": false, "rationale": "語法不符。" }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The man _______ is talking to the manager is my uncle.",
+    "hint": "先行詞是「人」，且在關係子句中擔任「主詞」。",
+    "answerOptions": [
+      { "text": "who", "isCorrect": true, "rationale": "who 用於指代人，並在子句中擔任主詞。" },
+      { "text": "whom", "isCorrect": false, "rationale": "whom 用於指代人，但擔任受詞。" },
+      { "text": "which", "isCorrect": false, "rationale": "which 用於指代事物。" },
+      { "text": "whose", "isCorrect": false, "rationale": "whose 用於表示所有格。" }
+    ]
+  },
+  {
+    "question": "This is the house _______ I lived in when I was a child.",
+    "hint": "先行詞是「事物」（房子），在關係子句中擔任介系詞 in 的受詞。",
+    "answerOptions": [
+      { "text": "who", "isCorrect": false, "rationale": "who 不能指代房子。" },
+      { "text": "which", "isCorrect": true, "rationale": "which 指代事物，可用作受詞。" },
+      { "text": "where", "isCorrect": false, "rationale": "若使用 where，子句應為 where I lived，不加 in。" },
+      { "text": "what", "isCorrect": false, "rationale": "what 前面不能有先行詞。" }
+    ]
+  },
+  {
+    "question": "I don't know the reason _______ she was late.",
+    "hint": "先行詞是 the reason，引導表示「原因」的關係子句。",
+    "answerOptions": [
+      { "text": "which", "isCorrect": false, "rationale": "which 後面通常接不完整句，此處句子完整。" },
+      { "text": "when", "isCorrect": false, "rationale": "when 用於指代時間。" },
+      { "text": "why", "isCorrect": true, "rationale": "why 是關係副詞，用於指代原因。" },
+      { "text": "how", "isCorrect": false, "rationale": "how 不與 the reason 連用。" }
+    ]
+  },
+  {
+    "question": "The girl _______ bag was stolen is crying.",
+    "hint": "先行詞與後面的名詞（bag）之間有「所有格」關係（她的包包）。",
+    "answerOptions": [
+      { "text": "who", "isCorrect": false, "rationale": "who 擔任主詞，此處需要所有格。" },
+      { "text": "whom", "isCorrect": false, "rationale": "whom 擔任受詞。" },
+      { "text": "whose", "isCorrect": true, "rationale": "whose 是關係代名詞的所有格，指代「某人的」。" },
+      { "text": "that", "isCorrect": false, "rationale": "that 不能擔任所有格。" }
+    ]
+  },
+  {
+    "question": "Sunday is the day _______ we usually go to the church.",
+    "hint": "先行詞是 the day（時間），在關係子句中擔任時間副詞的作用。",
+    "answerOptions": [
+      { "text": "which", "isCorrect": false, "rationale": "which 在子句中擔任主詞或受詞，此處子句結構完整。" },
+      { "text": "where", "isCorrect": false, "rationale": "where 用於指代地點。" },
+      { "text": "when", "isCorrect": true, "rationale": "when 是關係副詞，用於指代時間。" },
+      { "text": "why", "isCorrect": false, "rationale": "why 用於指代原因。" }
+    ]
+  }
+]

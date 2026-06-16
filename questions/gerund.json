@@ -1,0 +1,52 @@
+[
+  {
+    "question": "He enjoys _______ in his free time.",
+    "hint": "enjoy (享受/喜歡) 後面習慣接動名詞 (V-ing)。",
+    "answerOptions": [
+      { "text": "to swim", "isCorrect": false, "rationale": "enjoy 不接不定詞。" },
+      { "text": "swimming", "isCorrect": true, "rationale": "enjoy 後接 V-ing 是固定用法。" },
+      { "text": "swim", "isCorrect": false, "rationale": "需要非限定動詞形式。" },
+      { "text": "swam", "isCorrect": false, "rationale": "這是過去式。" }
+    ]
+  },
+  {
+    "question": "I'll never forget _______ the Eiffel Tower for the first time.",
+    "hint": "forget + V-ing 表示「忘記做過某事」，forget + to V 表示「忘記要做某事」。",
+    "answerOptions": [
+      { "text": "to see", "isCorrect": false, "rationale": "語意變成「忘記要去看看」，不符首見之語意。" },
+      { "text": "seeing", "isCorrect": true, "rationale": "forget + V-ing 表示對「過去發生過的事情」的記憶。" },
+      { "text": "seen", "isCorrect": false, "rationale": "語法錯誤。" },
+      { "text": "saw", "isCorrect": false, "rationale": "語法錯誤。" }
+    ]
+  },
+  {
+    "question": "They decided _______ a new car.",
+    "hint": "decide (決定) 後面習慣接不定詞 (to + V)。",
+    "answerOptions": [
+      { "text": "buying", "isCorrect": false, "rationale": "decide 不接動名詞。" },
+      { "text": "to buy", "isCorrect": true, "rationale": "decide + to V 是固定用法。" },
+      { "text": "buy", "isCorrect": false, "rationale": "需要不定詞。" },
+      { "text": "bought", "isCorrect": false, "rationale": "這是過去式。" }
+    ]
+  },
+  {
+    "question": "Please remember _______ the door before you leave.",
+    "hint": "remember + to V 表示「記得要做某事」。",
+    "answerOptions": [
+      { "text": "locking", "isCorrect": false, "rationale": "語意變成「記得曾經鎖過」，不符提醒之意。" },
+      { "text": "to lock", "isCorrect": true, "rationale": "remember + to V 用於提醒未來要做的事。" },
+      { "text": "lock", "isCorrect": false, "rationale": "缺乏 to。" },
+      { "text": "locked", "isCorrect": false, "rationale": "語法錯誤。" }
+    ]
+  },
+  {
+    "question": "I'm looking forward to _______ from you soon.",
+    "hint": "look forward to 中的 to 是「介系詞」，後面需接名詞或動名詞。",
+    "answerOptions": [
+      { "text": "hear", "isCorrect": false, "rationale": "介系詞 to 後面不能接原形動詞。" },
+      { "text": "hearing", "isCorrect": true, "rationale": "look forward to + V-ing 是常見且易錯的用法。" },
+      { "text": "heard", "isCorrect": false, "rationale": "語法錯誤。" },
+      { "text": "to hear", "isCorrect": false, "rationale": "已經有一個 to 了。" }
+    ]
+  }
+]

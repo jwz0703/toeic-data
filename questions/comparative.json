@@ -1,0 +1,52 @@
+[
+  {
+    "question": "This is the _______ movie I have ever seen.",
+    "hint": "與 ever seen 連用且有 the，通常表示最高級。",
+    "answerOptions": [
+      { "text": "better", "isCorrect": false, "rationale": "better 是比較級。" },
+      { "text": "best", "isCorrect": true, "rationale": "best 是 good 的最高級，用於三者以上或一生之最。" },
+      { "text": "good", "isCorrect": false, "rationale": "原級不符句意。" },
+      { "text": "most good", "isCorrect": false, "rationale": "good 的最高級是 best，不加 most。" }
+    ]
+  },
+  {
+    "question": "The more you practice, the _______ you will become.",
+    "hint": "The + 比較級, the + 比較級，表示「越...就越...」。",
+    "answerOptions": [
+      { "text": "better", "isCorrect": true, "rationale": "這是雙重比較級句型，需使用比較級 better。" },
+      { "text": "best", "isCorrect": false, "rationale": "此句型固定接比較級。" },
+      { "text": "good", "isCorrect": false, "rationale": "此句型固定接比較級。" },
+      { "text": "well", "isCorrect": false, "rationale": "雖然 well 是副詞，但此句型需用比較級。" }
+    ]
+  },
+  {
+    "question": "He is _______ than any other student in his class.",
+    "hint": "比較級 + than any other + 單數名詞，可用來表達最高級的含義。",
+    "answerOptions": [
+      { "text": "tall", "isCorrect": false, "rationale": "需要比較級。" },
+      { "text": "taller", "isCorrect": true, "rationale": "比較級 taller 搭配 than。" },
+      { "text": "tallest", "isCorrect": false, "rationale": "tallest 通常與 the 連用，且不接 than any other。" },
+      { "text": "as tall", "isCorrect": false, "rationale": "as tall 搭配 as。" }
+    ]
+  },
+  {
+    "question": "She is as _______ as her sister.",
+    "hint": "as... as... 之間必須使用「原級」形容詞或副詞。",
+    "answerOptions": [
+      { "text": "smart", "isCorrect": true, "rationale": "as... as 中間放原級 smart。" },
+      { "text": "smarter", "isCorrect": false, "rationale": "比較級不放在 as... as 中。" },
+      { "text": "smartest", "isCorrect": false, "rationale": "最高級不放在 as... as 中。" },
+      { "text": "more smart", "isCorrect": false, "rationale": "語法錯誤。" }
+    ]
+  },
+  {
+    "question": "My phone is much _______ than yours.",
+    "hint": "可以用 much, even, far, a lot 等詞來修飾比較級。",
+    "answerOptions": [
+      { "text": "expensive", "isCorrect": false, "rationale": "than 之前需用比較級。" },
+      { "text": "more expensive", "isCorrect": true, "rationale": "多音節形容詞的比較級是 more + 原級。" },
+      { "text": "most expensive", "isCorrect": false, "rationale": "最高級不接 than。" },
+      { "text": "expensiver", "isCorrect": false, "rationale": "多音節形容詞不加 -er。" }
+    ]
+  }
+]

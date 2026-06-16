@@ -1,0 +1,52 @@
+[
+  {
+    "question": "If I _______ you, I would take the job offer.",
+    "hint": "與「現在事實相反」的假設，be 動詞一律用 were。",
+    "answerOptions": [
+      { "text": "am", "isCorrect": false, "rationale": "am 是現在式，不符合假設語氣。" },
+      { "text": "was", "isCorrect": false, "rationale": "在正式的假設語氣中，be 動詞不論人稱皆用 were。" },
+      { "text": "were", "isCorrect": true, "rationale": "與現在事實相反的假設，if 子句動詞用過去式，be 動詞用 were。" },
+      { "text": "have been", "isCorrect": false, "rationale": "這是完成式，語法不符。" }
+    ]
+  },
+  {
+    "question": "If he _______ harder, he would have passed the exam last year.",
+    "hint": "與「過去事實相反」的假設，if 子句要用過去完成式。",
+    "answerOptions": [
+      { "text": "studied", "isCorrect": false, "rationale": "這是與現在事實相反的假設。" },
+      { "text": "had studied", "isCorrect": true, "rationale": "與過去事實相反，if 子句用 had + p.p.，主句用 would have + p.p.。" },
+      { "text": "studies", "isCorrect": false, "rationale": "這是條件句的用法。" },
+      { "text": "has studied", "isCorrect": false, "rationale": "現在完成式不用於假設語氣。" }
+    ]
+  },
+  {
+    "question": "I wish I _______ more money now.",
+    "hint": "wish 後面的子句，若與「現在事實相反」，動詞用過去式。",
+    "answerOptions": [
+      { "text": "have", "isCorrect": false, "rationale": "wish 後面不能用現在式。" },
+      { "text": "had", "isCorrect": true, "rationale": "表示現在的願望（但非事實），用過去式。" },
+      { "text": "had had", "isCorrect": false, "rationale": "這是對過去願望的遺憾。" },
+      { "text": "will have", "isCorrect": false, "rationale": "wish 後面不用 will。" }
+    ]
+  },
+  {
+    "question": "The doctor suggested that she _______ a rest.",
+    "hint": "suggest (建議) 引導的 that 子句，動詞要用原形 (省略 should)。",
+    "answerOptions": [
+      { "text": "takes", "isCorrect": false, "rationale": "在建議、要求等動詞後的 that 子句，動詞不可加 s。" },
+      { "text": "take", "isCorrect": true, "rationale": "suggest + that + S + (should) + VR。" },
+      { "text": "took", "isCorrect": false, "rationale": "不可用過去式。" },
+      { "text": "taking", "isCorrect": false, "rationale": "that 子句需要主詞與動詞。" }
+    ]
+  },
+  {
+    "question": "If it _______ tomorrow, the game would be canceled.",
+    "hint": "表示「對未來機率極低」的假設，可用 should 或 were to。",
+    "answerOptions": [
+      { "text": "rains", "isCorrect": false, "rationale": "這是普通的條件句。" },
+      { "text": "should rain", "isCorrect": true, "rationale": "If + S + should + VR，表示對未來萬一的假設。" },
+      { "text": "rained", "isCorrect": false, "rationale": "rained 較常用於與現在事實相反。" },
+      { "text": "has rained", "isCorrect": false, "rationale": "不符語法。" }
+    ]
+  }
+]
