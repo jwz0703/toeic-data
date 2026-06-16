@@ -1,0 +1,14 @@
+[
+  {
+    "question": "This is the _______ movie I have ever seen.",
+    "hint": "與 ever seen 連用且有 the，通常表示最高級。",
+    "answerOptions": [
+      { "text": "better", "isCorrect": false, "rationale": "better 是比較級。" },
+      { "text": "best", "isCorrect": true, "rationale": "best 是 good 的最高級，用於三者以上或一生之最。" },
+      { "text": "good", "isCorrect": false, "rationale": "原級不符句意。" },
+      { "text": "most good", "isCorrect": false, "rationale": "good 的最高級是 best，不加 most。" }
+    ]
+  },{
+    "other questions":"..."
+  }
+]
