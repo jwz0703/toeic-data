@@ -45,7 +45,7 @@
 
 此類別最容易因詞性混淆而造錯句子，請特別注意以下三種不同的句型結構：
 
-#### 💡 A. 連接副詞用法（前後需用句點或分號隔開）
+####  A. 連接副詞用法（前後需用句點或分號隔開）
 *  **However** : 然而
 *  **Nevertheles / Nonetheless** : 儘管如此、然而 (較正式)
 *  **On the other hand** : 另一方面
@@ -54,13 +54,13 @@
   *  **例句** : The project faced many technical difficulties;  **nevertheless** , the team completed it ahead of schedule.
   *  **例句** : Laptops are highly portable.  **On the other hand** , desktop computers usually offer better performance.
 
-#### 💡 B. 從屬連接詞用法（直接連接兩個子句）
+####  B. 從屬連接詞用法（直接連接兩個子句）
 *  **Whereas** : 而、卻 (用來對比兩個不同的事實)
 *  **Although / Even though** : 雖然、儘管
   *  **例句** : Some people prefer to save their money,  **whereas**  others like to spend it on experiences.
   *  **例句** :  **Although**  the ticket was very expensive, the concert was worth every penny.
 
-#### 💡 C. 介系詞用法（後面只能接「名詞」或「V-ing」）
+####  C. 介系詞用法（後面只能接「名詞」或「V-ing」）
 *  **Despite / In spite of** : 儘管
 *  **Instead of** : 而不是
   *  **例句** :  **Despite**  the heavy rain, the football match was not canceled.
@@ -70,51 +70,51 @@
 
 ### 2. 表示「遞進與補充」 (Addition)
 
-#### 💡 A. 連接副詞用法
+####  A. 連接副詞用法
 *  **Moreover / Furthermore** : 此外、而且 (較正式)
 *  **In addition / Additionally** : 此外
 *  **Besides** : 此外、而且 (語氣較為直接)
-  *  **例句 (Moreover)** : Learning a new language improves memory.  **Moreover** , it opens up international career opportunities.
-  *  **例句 (In addition)** : The hotel provides free Wi-Fi;  **in addition** , guests can access the gym for free.
+  *  **例句** : Learning a new language improves memory.  **Moreover** , it opens up international career opportunities.
+  *  **例句** : The hotel provides free Wi-Fi;  **in addition** , guests can access the gym for free.
 
-#### 💡 B. 介系詞用法（後接 N / V-ing）
+####  B. 介系詞用法（後接 N / V-ing）
 *  **In addition to** : 除了...之外 (還有)
 *  **Besides** : 除了...之外 (還有)
-  *  **例句 (In addition to)** :  **In addition to**  playing the piano, she also plays the violin. (除了彈鋼琴外，她還拉小提琴)
+  *  **例句** :  **In addition to**  playing the piano, she also plays the violin. (除了彈鋼琴外，她還拉小提琴)
 
 ---
 
 ### 3. 表示「因果關係」 (Cause & Effect)
 
-#### 💡 A. 連接副詞用法（表示結果）
+####  A. 連接副詞用法（表示結果）
 *  **Therefore / Consequently** : 因此、結果
 *  **As a result** : 結果
 *  **Thus / Hence** : 因此、由此
-  *  **例句 (Consequently)** : The company failed to adapt to market trends.  **Consequently** , its sales dropped significantly.
-  *  **例句 (As a result)** : The main road was blocked due to an accident;  **as a result** , many commuters were delayed.
+  *  **例句** : The company failed to adapt to market trends.  **Consequently** , its sales dropped significantly.
+  *  **例句** : The main road was blocked due to an accident;  **as a result** , many commuters were delayed.
 
-#### 💡 B. 從屬連接詞用法（引導原因子句）
+####  B. 從屬連接詞用法（引導原因子句）
 *  **Because / Since / As** : 因為、既然
-  *  **例句 (Because)** :  **Because**  the flight was delayed, we missed our connecting flight in Tokyo.
+  *  **例句** :  **Because**  the flight was delayed, we missed our connecting flight in Tokyo.
 
-#### 💡 C. 介系詞用法（引導原因名詞）
+####  C. 介系詞用法（引導原因名詞）
 *  **Because of / Due to / Owing to** : 因為、由於
-  *  **例句 (Because of)** : We missed our connecting flight  **because of**  the flight delay.
+  *  **例句** : We missed our connecting flight  **because of**  the flight delay.
 
 ---
 
 ### 4. 表示「舉例與闡述」 (Example & Clarification)
 
-#### 💡 A. 連接副詞 / 獨立插入語用法
+####  A. 連接副詞 / 獨立插入語用法
 *  **For example / For instance** : 例如
 *  **That is / In other words** : 換句話說
 *  **Namely** : 即、也就是
-  *  **例句 (For instance)** : Regular exercise offers many health benefits.  **For instance** , it can reduce stress and improve sleep quality.
-  *  **例句 (In other words)** : The product is no longer under warranty.  **In other words** , you will have to pay for the repairs yourself.
+  *  **例句** : Regular exercise offers many health benefits.  **For instance** , it can reduce stress and improve sleep quality.
+  *  **例句** : The product is no longer under warranty.  **In other words** , you will have to pay for the repairs yourself.
 
-#### 💡 B. 介系詞用法（置於句中，後接名詞）
+####  B. 介系詞用法（置於句中，後接名詞）
 *  **Such as / Like** : 例如、像...一樣
-  *  **例句 (Such as)** : Superfoods  **such as**  blueberries and spinach are rich in antioxidants.
+  *  **例句** : Superfoods  **such as**  blueberries and spinach are rich in antioxidants.
 
 ---
 
@@ -124,8 +124,8 @@
 *  **In conclusion** : 總之、最後 (常用於文章結尾)
 *  **To sum up / In summary** : 總結來說
 *  **Overall** : 整體而言
-  *  **例句 (In conclusion)** :  **In conclusion** , early childhood education plays a crucial role in a child's future development.
-  *  **例句 (Overall)** :  **Overall** , the campaign was highly successful despite the limited budget.
+  *  **例句** :  **In conclusion** , early childhood education plays a crucial role in a child's future development.
+  *  **例句** :  **Overall** , the campaign was highly successful despite the limited budget.
 
 ---
 
@@ -149,3 +149,5 @@
 * ✔️  **正確 (介系詞)** ： We stayed indoors  **because of**  the storm.
 * ✔️  **正確 (連接詞)** ： We stayed indoors  **because**  the storm was fierce.
 * ✔️  **正確 (副詞)** ： A fierce storm was approaching.  **Therefore** , we stayed indoors.
+
+`version 1.0`
