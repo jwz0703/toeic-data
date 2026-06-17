@@ -1,202 +1,102 @@
 [
   {
-    "question": "We have scheduled a _______ meeting for next Tuesday, but the date might change depending on the CEO's availability.",
-    "hint": "空格後修飾 meeting（會議），且後半句提到「日期可能會根據執行長的行程而改變」，表示此會議是「暫定、未定」的。",
+    "question": "The experienced engineer worked _______ the trainees to guide them through the complex assembly process.",
+    "hint": "根據句意，資深工程師與實習生「並肩、協同」工作。",
     "answerOptions": [
-      { "text": "tentative", "isCorrect": true, "rationale": "tentative 意為「暫定的、臨時的」，符合文意。" },
-      { "text": "permanent", "isCorrect": false, "rationale": "permanent 意為「永久的、固定的」，與後文不符。" },
-      { "text": "definitive", "isCorrect": false, "rationale": "definitive 意為「決定性的、確定的」，與後文相反。" },
-      { "text": "absolute", "isCorrect": false, "rationale": "absolute 意為「絕對的、完全的」，在此不合語意。" }
+      { "text": "alongside", "isCorrect": true, "rationale": "alongside 是介係詞，意為「與...並排；與...協同」，符合與實習生一起工作的語境。" },
+      { "text": "opposite", "isCorrect": false, "rationale": "opposite 意為「在...對面」，不符合共同協作的語境。" },
+      { "text": "against", "isCorrect": false, "rationale": "against 意為「反對；對抗」，與句意相反。" },
+      { "text": "between", "isCorrect": false, "rationale": "between 意為「在...之間」，後方通常接兩者，此處文法與語意不合。" }
     ]
   },
   {
-    "question": "The newly built office complex stands _______ the historic town hall, creating a striking contrast between old and new.",
-    "hint": "句意為「新建的辦公大樓座落在歷史悠久的市政廳『旁邊/並列』」，空格需填入表示位置關係的介係詞。",
+    "question": "We have made a _______ agreement, but we still need to finalize the details next week.",
+    "hint": "後半句提到「仍需在下週敲定細節」，表示目前的協議是「暫定的」。",
     "answerOptions": [
-      { "text": "alongside", "isCorrect": true, "rationale": "alongside 意為「在...旁邊、與...並排」，符合語意。" },
-      { "text": "inside", "isCorrect": false, "rationale": "inside 意為「在...裡面」，不符合兩棟獨立大樓的位置關係。" },
-      { "text": "through", "isCorrect": false, "rationale": "through 意為「穿過、通過」，與句意不符。" },
-      { "text": "underneath", "isCorrect": false, "rationale": "underneath 意為「在...下方」，大樓不會蓋在另一大樓下方。" }
+      { "text": "definitive", "isCorrect": false, "rationale": "definitive 意為「決定性的、確定的」，與後文語境矛盾。" },
+      { "text": "tentative", "isCorrect": true, "rationale": "tentative 意為「暫定的、臨時的」，符合「仍需確認細節」的語境。" },
+      { "text": "ultimate", "isCorrect": false, "rationale": "ultimate 意為「最終的」，不合句意。" },
+      { "text": "absolute", "isCorrect": false, "rationale": "absolute 意為「絕對的」，不合句意。" }
     ]
   },
   {
-    "question": "The market research department plans to _______ a survey on customer satisfaction next month.",
-    "hint": "搭配後方名詞 survey（調查），表示「進行、實施」調查。",
+    "question": "The research institute will _______ a series of experiments to test the effectiveness of the new drug.",
+    "hint": "搭配後方名詞 experiments（實驗），表示「進行、實施」實驗。",
     "answerOptions": [
-      { "text": "conduct", "isCorrect": true, "rationale": "conduct a survey 是固定搭配，意為「進行/實施調查」。" },
-      { "text": "contain", "isCorrect": false, "rationale": "contain 意為「包含、容納」，不適用於此處。" },
-      { "text": "control", "isCorrect": false, "rationale": "control 意為「控制、支配」。" },
-      { "text": "confirm", "isCorrect": false, "rationale": "confirm 意為「確認、證實」。" }
+      { "text": "conduct", "isCorrect": true, "rationale": "conduct 可作動詞，conduct an experiment 意為「進行/實施實驗」。" },
+      { "text": "comply", "isCorrect": false, "rationale": "comply 意為「遵守」，常與 with 連用，不與 experiments 搭配。" },
+      { "text": "conflict", "isCorrect": false, "rationale": "conflict 意為「衝突、抵觸」，不合句意。" },
+      { "text": "contact", "isCorrect": false, "rationale": "contact 意為「聯絡、接觸」，無法與 experiments 搭配。" }
     ]
   },
   {
-    "question": "The police are still investigating the _______ of the missing artwork after the museum heist.",
-    "hint": "警方在博物館搶案後，仍在調查失竊藝術品的「下落、去向」。",
+    "question": "Although the suspect escaped, the investigators are doing their best to determine his _______.",
+    "hint": "根據句意，調查人員正在盡力確定逃犯的「下落、行蹤」。",
     "answerOptions": [
-      { "text": "whereabouts", "isCorrect": true, "rationale": "whereabouts 意為「下落、行蹤」，符合尋找失物或人的語境。" },
-      { "text": "outcomes", "isCorrect": false, "rationale": "outcomes 意為「結果、後果」。" },
-      { "text": "backgrounds", "isCorrect": false, "rationale": "backgrounds 意為「背景」。" },
-      { "text": "viewpoints", "isCorrect": false, "rationale": "viewpoints 意為「觀點、視角」。" }
+      { "text": "whereabouts", "isCorrect": true, "rationale": "whereabouts 意為「下落、行蹤、所在地」，符合尋找逃犯的語意。" },
+      { "text": "backgrounds", "isCorrect": false, "rationale": "backgrounds 意為「背景」，不符合確定具體位置的語境。" },
+      { "text": "directions", "isCorrect": false, "rationale": "directions 意為「方向；指示」，無法表示具體落腳處或行蹤。" },
+      { "text": "pathways", "isCorrect": false, "rationale": "pathways 意為「路徑、小徑」，指通道，不合句意。" }
     ]
   },
   {
-    "question": "The tech startup is actively seeking new _______ to fund its expansion into the European market.",
-    "hint": "創業公司正在尋找「投資人」來資助其擴展計劃，空格處應填入與資金提供相關的名詞。",
+    "question": "The company's presentation successfully attracted several venture _______ who are willing to fund the project.",
+    "hint": "根據後半句「願意資助該專案」，空格處應填入與資金提供相關的「投資者」。",
     "answerOptions": [
-      { "text": "investors", "isCorrect": true, "rationale": "investors 意為「投資者」，指提供資金以期望獲得回報的人或機構。" },
-      { "text": "inventories", "isCorrect": false, "rationale": "inventories 意為「存貨、庫存盤點」，不符語意。" },
-      { "text": "inspectors", "isCorrect": false, "rationale": "inspectors 意為「檢查員、督察」，無法提供擴展資金。" },
-      { "text": "instigators", "isCorrect": false, "rationale": "instigators 意為「煽動者、發起者」。" }
+      { "text": "inventors", "isCorrect": false, "rationale": "inventors 意為「發明家」，不符合資助資金的語境。" },
+      { "text": "inspectors", "isCorrect": false, "rationale": "inspectors 意為「檢查員」，與提供資金無關。" },
+      { "text": "investors", "isCorrect": true, "rationale": "investors 意為「投資者」，venture investors 指「創投資助者」，符合語意。" },
+      { "text": "instructors", "isCorrect": false, "rationale": "instructors 意為「教練、講師」，不合句意。" }
     ]
   },
   {
-    "question": "Safety _______ visited the factory to ensure all machinery complies with national regulations.",
-    "hint": "前往工廠確保機器符合國家法規的人員，應為「檢查員、稽查員」。",
+    "question": "The health _______ will examine the restaurant kitchen tomorrow to check for hygiene standards.",
+    "hint": "負責檢查餐廳廚房衛生標準的人，應是「檢查員、稽查員」。",
     "answerOptions": [
-      { "text": "inspectors", "isCorrect": true, "rationale": "inspectors 意為「檢查員、督察」，其工作是進行檢查以確保合規。" },
-      { "text": "spectators", "isCorrect": false, "rationale": "spectators 意為「（體育賽事的）觀眾」。" },
-      { "text": "ancestors", "isCorrect": false, "rationale": "ancestors 意為「祖先」。" },
-      { "text": "invaders", "isCorrect": false, "rationale": "invaders 意為「入侵者」。" }
+      { "text": "inspectors", "isCorrect": true, "rationale": "inspectors 意為「檢查員、稽查員」，health inspectors 即「衛生稽查員」。" },
+      { "text": "investors", "isCorrect": false, "rationale": "investors 意為「投資者」，不會去檢查廚房衛生。" },
+      { "text": "dealers", "isCorrect": false, "rationale": "dealers 意為「經銷商」，與衛生檢查職責不符。" },
+      { "text": "oversight", "isCorrect": false, "rationale": "oversight 為抽象名詞「疏忽」或「監督」，不指代具體的人。" }
     ]
   },
   {
-    "question": "Authorized car _______ reported a significant increase in hybrid vehicle sales this quarter.",
-    "hint": "銷售混合動力車輛的「經銷商、代理商」，英語中常用此字。",
+    "question": "Many local car _______ offer promotional discounts at the end of the year to clear their inventory.",
+    "hint": "「汽車經銷商、代理商」會在年底提供折扣以清除庫存。",
     "answerOptions": [
-      { "text": "dealers", "isCorrect": true, "rationale": "dealers 意為「經銷商、商販」，authorized dealers 為授權經銷商。" },
-      { "text": "debtors", "isCorrect": false, "rationale": "debtors 意為「債務人、借款人」。" },
-      { "text": "departures", "isCorrect": false, "rationale": "departures 意為「出發、離開」。" },
-      { "text": "definitions", "isCorrect": false, "rationale": "definitions 意為「定義」。" }
+      { "text": "dealers", "isCorrect": true, "rationale": "dealers 意為「經銷商、代理商」，car dealers 指「汽車經銷商」，符合語意。" },
+      { "text": "buyers", "isCorrect": false, "rationale": "buyers 意為「買家」，買家不會主動提供折扣來清庫存。" },
+      { "text": "makers", "isCorrect": false, "rationale": "makers 意為「製造商」，一般由經銷商直接面對消費者進行零售促銷。" },
+      { "text": "inspectors", "isCorrect": false, "rationale": "inspectors 意為「檢查員」，不合句意。" }
     ]
   },
   {
-    "question": "The hotel lobby features a very _______ combination of soft lighting, comfortable furniture, and modern artwork.",
-    "hint": "這裡修飾 combination（結合、搭配），表示這種搭配給人帶來「令人愉快的、雅致的」視覺或心理感受。",
+    "question": "The interior designer chose pastel colors to create a visually _______ environment for the patients.",
+    "hint": "空格處為形容詞，修飾名詞 environment，且前面有副詞 visually，表示「視覺上令人愉快的、美觀的」。",
     "answerOptions": [
-      { "text": "pleasing", "isCorrect": true, "rationale": "pleasing 意為「令人愉快的、雅致的、討喜的」，常用於形容事物。" },
-      { "text": "painful", "isCorrect": false, "rationale": "painful 意為「令人痛苦的」，與大廳的舒適布置矛盾。" },
-      { "text": "pitying", "isCorrect": false, "rationale": "pitying 意為「同情的、憐憫的」。" },
-      { "text": "pleading", "isCorrect": false, "rationale": "pleading 意為「懇求的、哀求的」。" }
+      { "text": "pleased", "isCorrect": false, "rationale": "pleased 意為「感到高興的」，通常用來形容「人」的主觀感受，不修飾無生命的環境。" },
+      { "text": "pleasing", "isCorrect": true, "rationale": "pleasing 意為「令人愉快的、討喜的、美觀的」，常用於修飾事物或環境。" },
+      { "text": "pleasure", "isCorrect": false, "rationale": "pleasure 是名詞「樂趣、榮幸」，在此處文法不符。" },
+      { "text": "pleasantly", "isCorrect": false, "rationale": "pleasantly 是副詞，不能直接修飾後方的名詞 environment。" }
     ]
   },
   {
-    "question": "Due to an unfortunate _______ in the shipping department, the package was sent to the wrong address.",
-    "hint": "由於出貨部門的「疏忽、失誤」，導致包裹被寄到錯誤的地址。",
+    "question": "It was an unfortunate _______ that the manager forgot to sign the authorization form before leaving.",
+    "hint": "經理在離開前忘記簽署授權書，這是一種「疏忽、失誤」。",
     "answerOptions": [
-      { "text": "oversight", "isCorrect": true, "rationale": "oversight 在此處表示「疏忽、失誤、遺漏」。" },
-      { "text": "insight", "isCorrect": false, "rationale": "insight 意為「洞察力、深刻見解」。" },
-      { "text": "foresight", "isCorrect": false, "rationale": "foresight 意為「先見之明、遠見」。" },
-      { "text": "hindsight", "isCorrect": false, "rationale": "hindsight 意為「事後聰明、事後諸葛」。" }
+      { "text": "oversight", "isCorrect": true, "rationale": "oversight 意為「疏忽、失誤」，符合「忘記簽署」的語意。" },
+      { "text": "preview", "isCorrect": false, "rationale": "preview 意為「預覽、預告」，與句意不符。" },
+      { "text": "feedback", "isCorrect": false, "rationale": "feedback 意為「反饋、回饋」，與句意不符。" },
+      { "text": "revision", "isCorrect": false, "rationale": "revision 意為「修訂、修改」，與句意不符。" }
     ]
   },
   {
-    "question": "If you are not entirely satisfied with your purchase, you can return the item within 30 days for a full _______.",
-    "hint": "購買商品不滿意，可在30天內退貨並獲得「全額退款」。",
+    "question": "Customers are entitled to a full _______ if they return the defective product within thirty days.",
+    "hint": "退回瑕疵商品可以獲得全額「退款」。",
     "answerOptions": [
-      { "text": "refund", "isCorrect": true, "rationale": "refund 意為「退款」，for a full refund 為商務常見的固定搭配。" },
-      { "text": "rebate", "isCorrect": false, "rationale": "rebate 指「折扣、退還款（通常指部分退稅或廠家促銷折扣）」，不等於退貨的退款。" },
-      { "text": "penalty", "isCorrect": false, "rationale": "penalty 意為「罰金、處罰」。" },
-      { "text": "loan", "isCorrect": false, "rationale": "loan 意為「貸款」。" }
-    ]
-  },
-  {
-    "question": "Tourists often visit local street markets to buy handcrafted _______ for their family and friends.",
-    "hint": "遊客通常在當地市場購買手作的「紀念品、伴手禮」送給親友。",
-    "answerOptions": [
-      { "text": "souvenirs", "isCorrect": true, "rationale": "souvenirs 意為「紀念品、伴手禮」，指旅遊時買來留念或送人的物件。" },
-      { "text": "scenarios", "isCorrect": false, "rationale": "scenarios 意為「情節、設想、方案」。" },
-      { "text": "surgeries", "isCorrect": false, "rationale": "surgeries 意為「手術（複數）」。" },
-      { "text": "substances", "isCorrect": false, "rationale": "substances 意為「物質、實質」。" }
-    ]
-  },
-  {
-    "question": "During the project, she had the privilege of working _______ some of the most experienced engineers in the industry.",
-    "hint": "句意為「與…並肩工作、密切合作」，表示與行業內頂尖工程師一同共事的經歷。",
-    "answerOptions": [
-      { "text": "alongside", "isCorrect": true, "rationale": "work alongside someone 意為「與某人並肩工作/密切合作」。" },
-      { "text": "beyond", "isCorrect": false, "rationale": "beyond 意為「超越、在...之外」，不合文意。" },
-      { "text": "whereas", "isCorrect": false, "rationale": "whereas 為連接詞，意為「然而、儘管」，後方不能直接加名詞。" },
-      { "text": "despite", "isCorrect": false, "rationale": "despite 意為「儘管、雖然」，在此不合邏輯。" }
-    ]
-  },
-  {
-    "question": "The toddler took a few _______ steps before finding his balance and running into his mother's arms.",
-    "hint": "學步的小孩在找到平衡前，步伐是「猶豫的、試探性的、不穩定的」。",
-    "answerOptions": [
-      { "text": "tentative", "isCorrect": true, "rationale": "tentative 在此形容步伐或行為是「猶豫的、試探性的、小心翼翼的」。" },
-      { "text": "tedious", "isCorrect": false, "rationale": "tedious 意為「單調乏味的、冗長的」，與幼兒學步無關。" },
-      { "text": "terminal", "isCorrect": false, "rationale": "terminal 意為「末期的、終點的、終端」。" },
-      { "text": "temporary", "isCorrect": false, "rationale": "temporary 意為「暫時的、臨時的」，用來形容步伐不夠貼切。" }
-    ]
-  },
-  {
-    "question": "Any employee who violates the company's code of _______ may face immediate disciplinary action.",
-    "hint": "code of _______ 指的是公司的「行為準則/守則」，此處作為不可數名詞，表示「行為、舉止」。",
-    "answerOptions": [
-      { "text": "conduct", "isCorrect": true, "rationale": "code of conduct 為固定搭配，意為「行為準則」。" },
-      { "text": "contact", "isCorrect": false, "rationale": "contact 意為「接觸、聯繫」，不與 code of 搭配成行為準則。" },
-      { "text": "conflict", "isCorrect": false, "rationale": "conflict 意為「衝突、矛盾」。" },
-      { "text": "contrast", "isCorrect": false, "rationale": "contrast 意為「對比、對照」。" }
-    ]
-  },
-  {
-    "question": "Although we exchange emails occasionally, his exact _______ in Europe remain unknown to us.",
-    "hint": "雖然偶爾互寄電子郵件，但他目前在歐洲的確切「下落、行蹤、所在地」我們仍不清楚（動詞用複數 remain 表示主詞為複數形式的名詞）。",
-    "answerOptions": [
-      { "text": "whereabouts", "isCorrect": true, "rationale": "whereabouts 意為「下落、所在地」，可作複數動詞的主詞，符合文意。" },
-      { "text": "workloads", "isCorrect": false, "rationale": "workloads 意為「工作量」。" },
-      { "text": "warehouse", "isCorrect": false, "rationale": "warehouse 意為「倉庫」（單數），且與 remain 複數動詞不搭配。" },
-      { "text": "wilderness", "isCorrect": false, "rationale": "wilderness 意為「荒野、荒漠」。" }
-    ]
-  },
-  {
-    "question": "The financial advisor warned that individual _______ should diversify their portfolios to minimize risks.",
-    "hint": "理財顧問警告「個人投資者」應該將投資組合多樣化以降低風險。",
-    "answerOptions": [
-      { "text": "investors", "isCorrect": true, "rationale": "individual investors 意為「個人投資者、散戶」，符合投資風險管理的情境。" },
-      { "text": "instructors", "isCorrect": false, "rationale": "instructors 意為「導師、教練」。" },
-      { "text": "ingredients", "isCorrect": false, "rationale": "ingredients 意為「原料、成分」。" },
-      { "text": "instruments", "isCorrect": false, "rationale": "instruments 意為「儀器、樂器」。" }
-    ]
-  },
-  {
-    "question": "The restaurant was temporarily closed after health _______ discovered several hygiene violations in the kitchen.",
-    "hint": "發現廚房衛生違規並導致餐廳暫時歇業的人，是「衛生稽查員、衛生檢查員」。",
-    "answerOptions": [
-      { "text": "inspectors", "isCorrect": true, "rationale": "health inspectors 意為「衛生稽查員」，專門負責公共場所衛生檢驗。" },
-      { "text": "instructors", "isCorrect": false, "rationale": "instructors 意為「教練、講師」，其職責非衛生檢查。" },
-      { "text": "interviewers", "isCorrect": false, "rationale": "interviewers 意為「面試官、訪問者」。" },
-      { "text": "interceptors", "isCorrect": false, "rationale": "interceptors 意為「攔截者、攔截機」。" }
-    ]
-  },
-  {
-    "question": "Art _______ from all over the world gathered at the auction house to bid on the rare Renaissance painting.",
-    "hint": "聚集在拍賣行競標文藝復興時期珍貴畫作的是「藝術品交易商/古董商」。",
-    "answerOptions": [
-      { "text": "dealers", "isCorrect": true, "rationale": "art dealers 意為「藝術品商、古董商」，指從事藝術品買賣的商家。" },
-      { "text": "delays", "isCorrect": false, "rationale": "delays 意為「延遲、延誤」。" },
-      { "text": "details", "isCorrect": false, "rationale": "details 意為「細節」。" },
-      { "text": "defenders", "isCorrect": false, "rationale": "defenders 意為「防守者、捍衛者」。" }
-    ]
-  },
-  {
-    "question": "The government agency has strict regulatory _______ over the country's banking and financial sectors.",
-    "hint": "這裡的名詞表示「監管、監督」。句意為政府機構對該國的銀行和金融部門擁有嚴格的監管。",
-    "answerOptions": [
-      { "text": "oversight", "isCorrect": true, "rationale": "oversight 除了「疏忽」之外，另有「監管、監督、管理」之意，regulatory oversight 意為「合規監管」。" },
-      { "text": "overhead", "isCorrect": false, "rationale": "overhead 意為「經常性開支、日常開銷」。" },
-      { "text": "outcome", "isCorrect": false, "rationale": "outcome 意為「結果、產出」。" },
-      { "text": "outbreak", "isCorrect": false, "rationale": "outbreak 意為「爆發（如戰爭、疾病等）」。" }
-    ]
-  },
-  {
-    "question": "The graphic designer focused on making the website interface both highly functional and visually _______.",
-    "hint": "網頁設計師致力於讓網站介面既高度實用，且在視覺上「令人愉悅、美觀的」。",
-    "answerOptions": [
-      { "text": "pleasing", "isCorrect": true, "rationale": "visually pleasing 意為「視覺上美觀、悅目的」，符合設計美學的修飾。" },
-      { "text": "exhausting", "isCorrect": false, "rationale": "exhausting 意為「使人精疲力竭的」。" },
-      { "text": "distressing", "isCorrect": false, "rationale": "distressing 意為「令人痛苦/憂慮的」，與設計初衷相反。" },
-      { "text": "irritating", "isCorrect": false, "rationale": "irritating 意為「令人惱火/煩躁的」。" }
+      { "text": "refund", "isCorrect": true, "rationale": "refund 意為「退款」，a full refund 意為「全額退款」，符合退貨語境。" },
+      { "text": "receipt", "isCorrect": false, "rationale": "receipt 意為「收據」，不合退貨獲得補償的語意。" },
+      { "text": "discount", "isCorrect": false, "rationale": "discount 意為「折扣」，不合退貨獲得補償的語意。" },
+      { "text": "budget", "isCorrect": false, "rationale": "budget 意為「預算」，不合句意。" }
     ]
   }
 ]
