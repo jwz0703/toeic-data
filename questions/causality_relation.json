@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The workshop was postponed _______ the trainer's sudden illness.",
+    "hint": "空格後方是名詞片語，需要填入介係詞。",
+    "answerOptions": [
+      { "text": "because of", "isCorrect": true, "rationale": "because of 是介係詞，後接名詞片語 the trainer's sudden illness。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是連接詞，後方必須接完整的子句（主詞+動詞）。" },
+      { "text": "therefore", "isCorrect": false, "rationale": "therefore 是副詞，不能直接引導名詞片語。" },
+      { "text": "since", "isCorrect": false, "rationale": "since 作為「因為」時是連接詞，後方需要接子句。" }
+    ]
+  },
+  {
+    "question": "_______ the contract has been signed, we can proceed with the project.",
+    "hint": "表示「既然、由於」某事已發生，引導完整子句。",
+    "answerOptions": [
+      { "text": "Now that", "isCorrect": true, "rationale": "now that 是連接詞，表示「既然、由於（某事已發生）」，符合句意。" },
+      { "text": "Due to", "isCorrect": false, "rationale": "due to 是介係詞，後方不接完整子句。" },
+      { "text": "Consequently", "isCorrect": false, "rationale": "consequently 是副詞，通常放在句首並加逗號，不直接引導從屬子句。" },
+      { "text": "Thus", "isCorrect": false, "rationale": "thus 是副詞，用法與 consequently 類似，不在此處引導子句。" }
+    ]
+  },
+  {
+    "question": "_______ the marketing team's efforts, our sales increased by 20% last month.",
+    "hint": "表示「多虧了、幸虧」，帶有正面語意，後接名詞。",
+    "answerOptions": [
+      { "text": "Thanks to", "isCorrect": true, "rationale": "thanks to 是介係詞，表示「多虧了」，常用於正面的結果。" },
+      { "text": "Since", "isCorrect": false, "rationale": "since 是連接詞，此處後方是名詞片語，語法不符。" },
+      { "text": "Hence", "isCorrect": false, "rationale": "hence 是副詞，不能直接引導名詞片語。" },
+      { "text": "As a result", "isCorrect": false, "rationale": "as a result 通常作為副詞片語使用（As a result, ...），若要接名詞需用 as a result of。" }
+    ]
+  },
+  {
+    "question": "The budget for the project was exceeded; _______, some tasks must be postponed.",
+    "hint": "置於分號後，引導結果的副詞。",
+    "answerOptions": [
+      { "text": "therefore", "isCorrect": true, "rationale": "therefore 是副詞，表示「因此」，常用於分號後銜接結果。" },
+      { "text": "because of", "isCorrect": false, "rationale": "because of 是介係詞，不適合放在此處銜接兩個句子。" },
+      { "text": "as", "isCorrect": false, "rationale": "as 是連接詞，不能單獨置於分號後引導後面的句子。" },
+      { "text": "owing to", "isCorrect": false, "rationale": "owing to 是介係詞，語法不符。" }
+    ]
+  },
+  {
+    "question": "_______ the document is highly confidential, please do not share it with anyone.",
+    "hint": "表示「因為」，引導完整子句。",
+    "answerOptions": [
+      { "text": "Since", "isCorrect": true, "rationale": "since 在此處作為連接詞，表示「因為、由於」。" },
+      { "text": "On account of", "isCorrect": false, "rationale": "on account of 是介係詞，後方不可接子句。" },
+      { "text": "Accordingly", "isCorrect": false, "rationale": "accordingly 是副詞，不引導從屬子句。" },
+      { "text": "Thus", "isCorrect": false, "rationale": "thus 是副詞，不引導從屬子句。" }
+    ]
+  },
+  {
+    "question": "The store was closed early _______ a power failure in the area.",
+    "hint": "表示「由於、因為」，後接名詞片語。",
+    "answerOptions": [
+      { "text": "due to", "isCorrect": true, "rationale": "due to 是介係詞，表示「由於」，後接名詞 a power failure。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是連接詞，後方須接子句。" },
+      { "text": "thus", "isCorrect": false, "rationale": "thus 是副詞，表示結果，不在此處引導原因。" },
+      { "text": "hence", "isCorrect": false, "rationale": "hence 是副詞，表示「因此」，不引導名詞短語。" }
+    ]
+  },
+  {
+    "question": "The regulations have been updated, and employees are expected to act _______.",
+    "hint": "表示「據此、於是」，放在句尾修飾動作。",
+    "answerOptions": [
+      { "text": "accordingly", "isCorrect": true, "rationale": "accordingly 是副詞，表示「據此、相應地」，符合「根據更新的規定採取行動」之意。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是連接詞，用法不符。" },
+      { "text": "now that", "isCorrect": false, "rationale": "now that 是連接詞，用法不符。" },
+      { "text": "since", "isCorrect": false, "rationale": "since 是連接詞，用法不符。" }
+    ]
+  },
+  {
+    "question": "The company upgraded its server system, _______ improving the website's speed.",
+    "hint": "用於分詞構句中，表示自然產生的結果。",
+    "answerOptions": [
+      { "text": "thus", "isCorrect": true, "rationale": "thus 常用於分詞構句（..., thus V-ing），表示「因此、從而」。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是連接詞，後面不能直接接 V-ing 分詞構句。" },
+      { "text": "as", "isCorrect": false, "rationale": "as 是連接詞，後面需接子句。" },
+      { "text": "as a result", "isCorrect": false, "rationale": "as a result 通常不直接置於逗號後接 V-ing，若要表示結果通常另起新句。" }
+    ]
+  },
+  {
+    "question": "All outdoor events were canceled _______ the severe weather warning.",
+    "hint": "表示「由於」，為 formal 的介係詞片語。",
+    "answerOptions": [
+      { "text": "on account of", "isCorrect": true, "rationale": "on account of 是介係詞片語，表示「由於」，後接名詞。" },
+      { "text": "as", "isCorrect": false, "rationale": "as 是連接詞，後接子句。" },
+      { "text": "since", "isCorrect": false, "rationale": "since 是連接詞，後接子句。" },
+      { "text": "now that", "isCorrect": false, "rationale": "now that 是連接詞，後接子句。" }
+    ]
+  },
+  {
+    "question": "The raw materials were not delivered on time; _______, production was halted.",
+    "hint": "表示前述原因造成的結果，較正式的副詞。",
+    "answerOptions": [
+      { "text": "consequently", "isCorrect": true, "rationale": "consequently 是副詞，表示「結果、因此」，符合分號後的句法結構。" },
+      { "text": "owing to", "isCorrect": false, "rationale": "owing to 是介係詞，不能連接兩個獨立句子。" },
+      { "text": "due to", "isCorrect": false, "rationale": "due to 是介係詞，用法不符。" },
+      { "text": "because of", "isCorrect": false, "rationale": "because of 是介係詞，用法不符。" }
+    ]
+  }
+]
