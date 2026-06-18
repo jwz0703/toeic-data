@@ -1,0 +1,11 @@
+  {
+    "question": "The company's presentation successfully attracted several venture _______ who are willing to fund the project.",
+    "hint": "根據後半句「願意資助該專案」，空格處應填入與資金提供相關的「投資者」。",
+    "answerOptions": [
+      { "text": "inventors", "isCorrect": false, "rationale": "inventors 意為「發明家」，不符合資助資金的語境。" },
+      { "text": "inspectors", "isCorrect": false, "rationale": "inspectors 意為「檢查員」，與提供資金無關。" },
+      { "text": "investors", "isCorrect": true, "rationale": "investors 意為「投資者」，venture investors 指「創投資助者」，符合語意。" },
+      { "text": "instructors", "isCorrect": false, "rationale": "instructors 意為「教練、講師」，不合句意。" }
+    ]
+  },
+  

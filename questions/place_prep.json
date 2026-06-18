@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Some bicycles are leaning _______ the wall.",
+    "hint": "指物品依靠在牆壁上時使用的介係詞。",
+    "answerOptions": [
+      { "text": "against", "isCorrect": true, "rationale": "against 表示「靠著、緊貼著」，常用於人或物依靠在牆上的情境。" },
+      { "text": "along", "isCorrect": false, "rationale": "along 表示「沿著」，不符合依靠在牆上的句意。" },
+      { "text": "across", "isCorrect": false, "rationale": "across 表示「橫越或在對面」，不符合此處語意。" },
+      { "text": "within", "isCorrect": false, "rationale": "within 表示「在...之內」，通常接時間或範圍。" }
+    ]
+  },
+  {
+    "question": "Trees are planted _______ the street.",
+    "hint": "指沿著道路或河流栽種時使用的介係詞。",
+    "answerOptions": [
+      { "text": "under", "isCorrect": false, "rationale": "under 表示「在...下方」，不符合栽種在街道旁的邏輯。" },
+      { "text": "along", "isCorrect": true, "rationale": "along 表示「沿著」，常用於沿著道路、河流或走廊的情境。" },
+      { "text": "between", "isCorrect": false, "rationale": "between 需接兩者，此處語意不完整。" },
+      { "text": "upon", "isCorrect": false, "rationale": "upon 表示「一...就...」，不符合此處空間描述。" }
+    ]
+  },
+  {
+    "question": "Please return the form _______ five business days.",
+    "hint": "表示在一段時間限制之內。",
+    "answerOptions": [
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond 表示「超出」，與要求回傳表格的語意相反。" },
+      { "text": "within", "isCorrect": true, "rationale": "within 表示「在...之內」，是多益高頻考點，後接時間長度。" },
+      { "text": "among", "isCorrect": false, "rationale": "among 用於三者以上之間，不接時間長度。" },
+      { "text": "through", "isCorrect": false, "rationale": "through 表示「透過或穿過」，不符合此處時間限制的用法。" }
+    ]
+  },
+  {
+    "question": "The report must be submitted _______ Friday.",
+    "hint": "表示截止時間（Deadline）。",
+    "answerOptions": [
+      { "text": "by", "isCorrect": true, "rationale": "by 表示「在...之前」，用於表達截止日期。" },
+      { "text": "until", "isCorrect": false, "rationale": "until 表示「持續到...」，通常與持續性動作連用，而非提交動作。" },
+      { "text": "within", "isCorrect": false, "rationale": "within 後接「時間長度」，Friday 是特定時間點。" },
+      { "text": "beside", "isCorrect": false, "rationale": "beside 表示「在旁邊」，不符合時間語意。" }
+    ]
+  },
+  {
+    "question": "Please review the safety guidelines _______ operating the machinery.",
+    "hint": "考「介係詞 + V-ing」結構，表示在動作之前。",
+    "answerOptions": [
+      { "text": "across", "isCorrect": false, "rationale": "across 為空間介係詞，不接動名詞表示先後順序。" },
+      { "text": "before", "isCorrect": true, "rationale": "before 表示「在...之前」，常接 V-ing 結構。" },
+      { "text": "among", "isCorrect": false, "rationale": "among 後接複數名詞，不接動名詞。" },
+      { "text": "behind", "isCorrect": false, "rationale": "behind 表示「在後面」，不符合操作前的邏輯。" }
+    ]
+  },
+  {
+    "question": "There is a short break _______ the morning and afternoon sessions.",
+    "hint": "表示在兩者之間。",
+    "answerOptions": [
+      { "text": "among", "isCorrect": false, "rationale": "among 用於三者以上，此處只有上午與下午兩場。" },
+      { "text": "between", "isCorrect": true, "rationale": "between 用於兩者之間，常見結構為 between A and B。" },
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond 表示超出，不合句意。" },
+      { "text": "against", "isCorrect": false, "rationale": "against 表示靠著，不符合時間間隔的語意。" }
+    ]
+  },
+  {
+    "question": "Mr. Kim is highly respected _______ the committee members.",
+    "hint": "表示在多個成員（三者以上）之間。",
+    "answerOptions": [
+      { "text": "between", "isCorrect": false, "rationale": "between 用於兩者，委員會成員通常指多人。" },
+      { "text": "among", "isCorrect": true, "rationale": "among 用於三者（含）以上，後面接複數名詞。" },
+      { "text": "beside", "isCorrect": false, "rationale": "beside 表示在旁邊，不符合受尊重的語意。" },
+      { "text": "under", "isCorrect": false, "rationale": "under 在此語境下不合適。" }
+    ]
+  },
+  {
+    "question": "The filing cabinet is _______ the copier.",
+    "hint": "表示在旁邊，等於 next to。",
+    "answerOptions": [
+      { "text": "beside", "isCorrect": true, "rationale": "beside 等於 next to，表示「在...旁邊」。" },
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond 表示超出，不符合家具擺設的常見描述。" },
+      { "text": "within", "isCorrect": false, "rationale": "within 指在範圍內，不符合兩物並列的描述。" },
+      { "text": "through", "isCorrect": false, "rationale": "through 表示穿過，不合句意。" }
+    ]
+  },
+  {
+    "question": "The building is _______ the park.",
+    "hint": "指兩者面對面或是對面。",
+    "answerOptions": [
+      { "text": "along", "isCorrect": false, "rationale": "along 表示沿著，不符合建築與公園的相對位置。" },
+      { "text": "opposite", "isCorrect": true, "rationale": "opposite 表示「在...對面」，常用於描述兩地點相對。" },
+      { "text": "among", "isCorrect": false, "rationale": "among 用於三者以上之間。" },
+      { "text": "upon", "isCorrect": false, "rationale": "upon 不用於描述建築位置。" }
+    ]
+  },
+  {
+    "question": "The road is currently _______ construction.",
+    "hint": "固定搭配，表示正在施工中。",
+    "answerOptions": [
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond construction 不符合習慣用語。" },
+      { "text": "under", "isCorrect": true, "rationale": "under construction 是固定搭配，表示「施工中」。" },
+      { "text": "within", "isCorrect": false, "rationale": "within construction 不合語法。" },
+      { "text": "without", "isCorrect": false, "rationale": "without construction 表示沒有施工，不符常態描述。" }
+    ]
+  },
+  {
+    "question": "The damage to the car is _______ repair.",
+    "hint": "固定搭配，表示損壞過重無法修復。",
+    "answerOptions": [
+      { "text": "under", "isCorrect": false, "rationale": "under repair 是正在修理，題意暗示損壞嚴重。" },
+      { "text": "beyond", "isCorrect": true, "rationale": "beyond repair 是固定搭配，表示「無法修復」。" },
+      { "text": "through", "isCorrect": false, "rationale": "through 不與 repair 組成此種語意的搭配。" },
+      { "text": "upon", "isCorrect": false, "rationale": "upon repair 不符合此處語意。" }
+    ]
+  },
+  {
+    "question": "The catalog will be sent _______ request.",
+    "hint": "固定搭配，表示「一經要求」。",
+    "answerOptions": [
+      { "text": "upon", "isCorrect": true, "rationale": "upon request 是固定搭配，表示「一經要求」。" },
+      { "text": "among", "isCorrect": false, "rationale": "among request 語意不通。" },
+      { "text": "behind", "isCorrect": false, "rationale": "behind request 語意不通。" },
+      { "text": "across", "isCorrect": false, "rationale": "across request 語意不通。" }
+    ]
+  },
+  {
+    "question": "Please submit your application _______ delay.",
+    "hint": "固定搭配，表示「毫不延誤、立刻」。",
+    "answerOptions": [
+      { "text": "without", "isCorrect": true, "rationale": "without delay 是固定搭配，表示「毫不延誤」。" },
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond delay 不符合習慣用法。" },
+      { "text": "under", "isCorrect": false, "rationale": "under delay 不符合習慣用法。" },
+      { "text": "against", "isCorrect": false, "rationale": "against delay 不符合習慣用法。" }
+    ]
+  },
+  {
+    "question": "They are sitting _______ from each other.",
+    "hint": "表示正對面對坐著。",
+    "answerOptions": [
+      { "text": "across", "isCorrect": true, "rationale": "across from 是固定結構，表示「在...對面」。" },
+      { "text": "along", "isCorrect": false, "rationale": "along from 不是正確的結構。" },
+      { "text": "within", "isCorrect": false, "rationale": "within 不與 from 連用表示方位。" },
+      { "text": "through", "isCorrect": false, "rationale": "through from 不是正確的方位表達。" }
+    ]
+  },
+  {
+    "question": "Some boxes are stored _______ the desk.",
+    "hint": "指物品放在桌子下方。",
+    "answerOptions": [
+      { "text": "underneath", "isCorrect": true, "rationale": "underneath 等於 under，表示「在...下方」。" },
+      { "text": "opposite", "isCorrect": false, "rationale": "opposite 表示對面，不符合桌下收納的邏輯。" },
+      { "text": "against", "isCorrect": false, "rationale": "against 表示靠著，通常指垂直面。" },
+      { "text": "beyond", "isCorrect": false, "rationale": "beyond 表示超出，不合句意。" }
+    ]
+  }
+]
