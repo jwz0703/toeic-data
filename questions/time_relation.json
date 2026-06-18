@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Please keep your mobile phones on silent _______ the presentation is in progress.",
+    "hint": "連接兩個子句，表示「當...的時候」，常用於進行中的動作。",
+    "answerOptions": [
+      { "text": "while", "isCorrect": true, "rationale": "while 是連接詞，後接子句，常用於表示某事正在發生時另一件事也發生。" },
+      { "text": "during", "isCorrect": false, "rationale": "during 是介係詞，後方只能接名詞，不能接子句。" },
+      { "text": "previously", "isCorrect": false, "rationale": "previously 是副詞，表示「先前」，不符合此處連接子句的需求。" },
+      { "text": "then", "isCorrect": false, "rationale": "then 是副詞，表示「然後」，不能用來引導子句。" }
+    ]
+  },
+  {
+    "question": "All candidates must check in at the front desk _______ the interview.",
+    "hint": "表示在特定事件之前，使用介係詞。",
+    "answerOptions": [
+      { "text": "prior to", "isCorrect": true, "rationale": "prior to 是 before 的正式介係詞用法，後接名詞 the interview。" },
+      { "text": "once", "isCorrect": false, "rationale": "once 是連接詞，後接子句，表示「一旦」。" },
+      { "text": "as soon as", "isCorrect": false, "rationale": "as soon as 是連接詞組，後接子句。" },
+      { "text": "afterward", "isCorrect": false, "rationale": "afterward 是副詞，不能直接連接名詞。" }
+    ]
+  },
+  {
+    "question": "The shipment will be processed _______ the payment is confirmed.",
+    "hint": "表示「一旦」條件達成，另一件事隨即發生。",
+    "answerOptions": [
+      { "text": "once", "isCorrect": true, "rationale": "once 作為連接詞，表示「一旦...就...」，符合先確認付款再處理貨物的邏輯。" },
+      { "text": "throughout", "isCorrect": false, "rationale": "throughout 是介係詞，表示「貫穿整個期間」。" },
+      { "text": "upon", "isCorrect": false, "rationale": "upon 是介係詞，後方接名詞或 V-ing，不接完整子句。" },
+      { "text": "meanwhile", "isCorrect": false, "rationale": "meanwhile 是副詞，用於銜接兩句話，不引導從屬子句。" }
+    ]
+  },
+  {
+    "question": "The marketing team worked late _______ the entire week to finish the campaign.",
+    "hint": "強調「從頭到尾」貫穿整個期間。",
+    "answerOptions": [
+      { "text": "throughout", "isCorrect": true, "rationale": "throughout 表示「在整個期間中從頭到尾」，強調持續性。" },
+      { "text": "until", "isCorrect": false, "rationale": "until 表示「直到...為止」，後接時間點（如 until Friday）。" },
+      { "text": "when", "isCorrect": false, "rationale": "when 是連接詞，不直接修飾 the entire week。" },
+      { "text": "subsequent to", "isCorrect": false, "rationale": "subsequent to 表示「在...之後」，不符合此處表示期間的語意。" }
+    ]
+  },
+  {
+    "question": "_______ arriving at the airport, please proceed to gate 15 for boarding.",
+    "hint": "考「介係詞 + V-ing」，表示一抵達就立即進行下個動作。",
+    "answerOptions": [
+      { "text": "Upon", "isCorrect": true, "rationale": "upon/on 後接 V-ing，表示「一...就...」，是多益高頻考點。" },
+      { "text": "While", "isCorrect": false, "rationale": "while 作連接詞接子句，若接 V-ing 則表示「在...期間」。" },
+      { "text": "Then", "isCorrect": false, "rationale": "then 是副詞，不接 V-ing 構成介係詞片語。" },
+      { "text": "Until", "isCorrect": false, "rationale": "until 接 V-ing 語意不通，通常指動作持續到某時。" }
+    ]
+  },
+  {
+    "question": "If you cannot attend the seminar, please inform the organizer _______.",
+    "hint": "表示「事先、提早」，通常放在句尾。",
+    "answerOptions": [
+      { "text": "beforehand", "isCorrect": true, "rationale": "beforehand 是副詞，表示「事先」，常用於告知、準備等情境。" },
+      { "text": "following", "isCorrect": false, "rationale": "following 是介係詞，後方需接名詞。" },
+      { "text": "prior to", "isCorrect": false, "rationale": "prior to 是介係詞，後方需接名詞。" },
+      { "text": "once", "isCorrect": false, "rationale": "once 是連接詞，不單獨放在句尾表示「事先」。" }
+    ]
+  },
+  {
+    "question": "The CEO will give a speech; _______, lunch will be served in the banquet hall.",
+    "hint": "連接兩句話，表示「在那之後」。",
+    "answerOptions": [
+      { "text": "afterward", "isCorrect": true, "rationale": "afterward 是副詞，表示「之後、後來」，用於描述事情的先後順序。" },
+      { "text": "subsequent to", "isCorrect": false, "rationale": "subsequent to 是介係詞，後方必須接名詞。" },
+      { "text": "while", "isCorrect": false, "rationale": "while 是連接詞，此處語法結構需要一個副詞來銜接。" },
+      { "text": "during", "isCorrect": false, "rationale": "during 是介係詞，不能單獨引導一個句子。" }
+    ]
+  },
+  {
+    "question": "Please do not enter the room _______ the light turns green.",
+    "hint": "表示動作「直到...」某個時間點或條件達成前都不要做。",
+    "answerOptions": [
+      { "text": "until", "isCorrect": true, "rationale": "until 表示「直到...」，常用於否定句表示「直到...才...」。" },
+      { "text": "as soon as", "isCorrect": false, "rationale": "as soon as 表示「一...就...」，代入此處語意不合（一變綠燈就不要進去）。" },
+      { "text": "throughout", "isCorrect": false, "rationale": "throughout 是介係詞，此處後方是子句。" },
+      { "text": "following", "isCorrect": false, "rationale": "following 是介係詞，此處後方是子句。" }
+    ]
+  },
+  {
+    "question": "The technicians are repairing the air conditioner; _______, please use the fans.",
+    "hint": "表示「與此同時」，在另一件事發生期間發生某事。",
+    "answerOptions": [
+      { "text": "meanwhile", "isCorrect": true, "rationale": "meanwhile 是副詞，表示「在此期間、同時」，用來衔接兩個獨立的句子。" },
+      { "text": "as", "isCorrect": false, "rationale": "as 作為連接詞需要接子句，不能以此副詞用法置於分號後。" },
+      { "text": "before", "isCorrect": false, "rationale": "before 作為副詞時通常放在句尾，且語意不合。" },
+      { "text": "upon", "isCorrect": false, "rationale": "upon 是介係詞，用法不符。" }
+    ]
+  },
+  {
+    "question": "The new safety regulations were implemented _______ the recent inspection.",
+    "hint": "表示「在...之後」，是 after 的正式說法。",
+    "answerOptions": [
+      { "text": "following", "isCorrect": true, "rationale": "following 在多益中常作介係詞，等同於 after。" },
+      { "text": "as soon as", "isCorrect": false, "rationale": "as soon as 是連接詞，此處後方是名詞短語。" },
+      { "text": "when", "isCorrect": false, "rationale": "when 是連接詞，此處後方是名詞短語。" },
+      { "text": "then", "isCorrect": false, "rationale": "then 是副詞，不能引導名詞短語。" }
+    ]
+  },
+  {
+    "question": "_______ you receive the signed contract, please send us a copy by mail.",
+    "hint": "表示「一...就...」，強調時間緊湊。",
+    "answerOptions": [
+      { "text": "As soon as", "isCorrect": true, "rationale": "as soon as 連接子句，表示兩件事發生的間隔極短。" },
+      { "text": "Throughout", "isCorrect": false, "rationale": "throughout 是介係詞，後接名詞。" },
+      { "text": "In the meantime", "isCorrect": false, "rationale": "in the meantime 是副詞短語，不引導從屬子句。" },
+      { "text": "Previously", "isCorrect": false, "rationale": "previously 是副詞，表示「先前」。" }
+    ]
+  },
+  {
+    "question": "We recommend that all participants register _______ to ensure a spot.",
+    "hint": "表示「事先」，確保有位置。",
+    "answerOptions": [
+      { "text": "beforehand", "isCorrect": true, "rationale": "beforehand 副詞表示事先，用於建議及早行動。" },
+      { "text": "subsequent to", "isCorrect": false, "rationale": "subsequent to 是介係詞，語意不通。" },
+      { "text": "afterward", "isCorrect": false, "rationale": "afterward 表示之後，與確保位置的邏輯相反。" },
+      { "text": "during", "isCorrect": false, "rationale": "during 是介係詞，後接名詞。" }
+    ]
+  },
+  {
+    "question": "The company reported a profit _______ three years of losses.",
+    "hint": "表示在一段時間「之後」。",
+    "answerOptions": [
+      { "text": "after", "isCorrect": true, "rationale": "after 作為介係詞，表示在某段時間或事件之後。" },
+      { "text": "once", "isCorrect": false, "rationale": "once 是連接詞，不接時間長度名詞。" },
+      { "text": "until", "isCorrect": false, "rationale": "until 表示直到，與 reporting a profit 的一次性動作不符。" },
+      { "text": "while", "isCorrect": false, "rationale": "while 是連接詞，不接名詞短語。" }
+    ]
+  },
+  {
+    "question": "The store was _______ located on Oak Street before moving to its current location.",
+    "hint": "表示「先前、過去」。",
+    "answerOptions": [
+      { "text": "previously", "isCorrect": true, "rationale": "previously 副詞修飾動詞 located，表示過去的位置。" },
+      { "text": "prior to", "isCorrect": false, "rationale": "prior to 是介係詞，不能在此處修飾動詞。" },
+      { "text": "as soon as", "isCorrect": false, "rationale": "as soon as 是連接詞，用法不符。" },
+      { "text": "thereafter", "isCorrect": false, "rationale": "thereafter 表示在那之後，語意相反。" }
+    ]
+  },
+  {
+    "question": "Payments are due within 30 days; _______, a late fee will be applied.",
+    "hint": "表示「在那之後」。",
+    "answerOptions": [
+      { "text": "thereafter", "isCorrect": true, "rationale": "thereafter 是副詞，表示在那之後，常出現於商務與法律條款。" },
+      { "text": "prior to", "isCorrect": false, "rationale": "prior to 是介係詞，不能引導句子。" },
+      { "text": "during", "isCorrect": false, "rationale": "during 是介係詞，用法不符。" },
+      { "text": "while", "isCorrect": false, "rationale": "while 是連接詞，用法不符。" }
+    ]
+  }
+]
