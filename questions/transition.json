@@ -1,202 +1,132 @@
 [
   {
-    "question": "The marketing campaign was highly creative; _______, it failed to attract the target demographic.",
-    "hint": "注意分號用法。行銷活動很有創意，『然而』未能吸引目標客群。分號後應接副詞性質的轉折詞。",
+    "question": "The weather forecast predicted rain; _______, the event continued as planned.",
+    "hint": "分號後接逗號，且語意是「然而」，需要連接副詞。",
     "answerOptions": [
-      { "text": "although", "isCorrect": false, "rationale": "although 是從屬連接詞，通常不置於分號與逗號之間單獨使用。" },
-      { "text": "however", "isCorrect": true, "rationale": "however 是轉折副詞，適合置於「分號...逗號...」結構中表示語意轉折。" },
-      { "text": "despite", "isCorrect": false, "rationale": "despite 是介係詞，後方只能接名詞或動名詞，不能接完整子句。" },
-      { "text": "whereas", "isCorrect": false, "rationale": "whereas 是連接詞，用以對比兩個子句，不能以此標點方式單獨使用。" }
+      { "text": "however", "isCorrect": true, "rationale": "however 是連接副詞，可用於「句子A; however, 句子B」表示轉折。" },
+      { "text": "although", "isCorrect": false, "rationale": "although 是從屬連接詞，不能放在分號後單獨銜接獨立句。" },
+      { "text": "despite", "isCorrect": false, "rationale": "despite 是介系詞，後面接名詞或 V-ing，不接完整句。" },
+      { "text": "whereas", "isCorrect": false, "rationale": "whereas 是從屬連接詞，用來連接子句，不適合此標點結構。" }
     ]
   },
   {
-    "question": "The system upgrade caused unexpected server downtime. _______, several client transactions could not be processed on time.",
-    "hint": "前後句為因果關係：系統升級導致伺服器停機，『結果/因此』有些交易無法按時處理。",
+    "question": "_______ the ticket was expensive, the concert was worth every penny.",
+    "hint": "空格後方是完整子句，且語意是「雖然」。",
     "answerOptions": [
-      { "text": "Consequently", "isCorrect": true, "rationale": "Consequently 表示「結果、因此」，引導前因所造成的後果。" },
-      { "text": "On the contrary", "isCorrect": false, "rationale": "On the contrary 表示「相反地」，用於否定前述並提出相反事實。" },
-      { "text": "In contrast", "isCorrect": false, "rationale": "In contrast 用於對比兩個不同的事物。" },
-      { "text": "Nevertheless", "isCorrect": false, "rationale": "Nevertheless 表示「然而、儘管如此」，不符因果邏輯。" }
+      { "text": "Although", "isCorrect": true, "rationale": "Although 是從屬連接詞，後面接完整子句，表示讓步。" },
+      { "text": "However", "isCorrect": false, "rationale": "However 是副詞，不能直接引導讓步子句。" },
+      { "text": "Despite", "isCorrect": false, "rationale": "Despite 是介系詞，後面應接名詞或 V-ing，不接完整子句。" },
+      { "text": "On the other hand", "isCorrect": false, "rationale": "On the other hand 是連接副詞片語，不用來引導從屬子句。" }
     ]
   },
   {
-    "question": "The new software is designed to streamline our inventory management. _______, it will reduce our operational costs by fifteen percent.",
-    "hint": "前後句為遞進關係：新軟體能簡化庫存管理，『此外/而且』還能降低15%營運成本。",
+    "question": "_______ the heavy rain, the football match was not canceled.",
+    "hint": "空格後方是名詞片語，且語意是「儘管」。",
     "answerOptions": [
-      { "text": "Furthermore", "isCorrect": true, "rationale": "Furthermore 表示「此外、而且」，用於遞進補充正面的資訊。" },
-      { "text": "On the other hand", "isCorrect": false, "rationale": "On the other hand 用於對比不同的觀點或面貌。" },
-      { "text": "Otherwise", "isCorrect": false, "rationale": "Otherwise 表示「否則」，用於假設相反情況的後果。" },
-      { "text": "Rather", "isCorrect": false, "rationale": "Rather 表示「相反地」或「更確切地說」。" }
+      { "text": "Despite", "isCorrect": true, "rationale": "Despite 是介系詞，後接名詞片語 the heavy rain，表示「儘管」。" },
+      { "text": "Although", "isCorrect": false, "rationale": "Although 是從屬連接詞，後面要接完整子句。" },
+      { "text": "However", "isCorrect": false, "rationale": "However 是副詞，不能直接接名詞片語。" },
+      { "text": "Whereas", "isCorrect": false, "rationale": "Whereas 是從屬連接詞，後面要接完整子句。" }
     ]
   },
   {
-    "question": "The candidate lacked experience in international logistics. _______, her exceptional communication skills made her the top choice for the position.",
-    "hint": "前後句為出乎意料的轉折：雖然缺乏物流經驗，『然而/儘管如此』憑著出色的溝通技巧被錄用。",
+    "question": "Learning a new language improves memory. _______, it opens up international career opportunities.",
+    "hint": "第二句補充另一個好處，語意是「此外、而且」。",
     "answerOptions": [
-      { "text": "Therefore", "isCorrect": false, "rationale": "經驗不足通常不會「因此」導致被錄用，故非因果關係。" },
-      { "text": "Nevertheless", "isCorrect": true, "rationale": "Nevertheless 表示「儘管如此、然而」，適合用於此處的讓步轉折。" },
-      { "text": "Moreover", "isCorrect": false, "rationale": "Moreover 表示「此外」，此處前後句意相反，不適合用遞進。" },
-      { "text": "Namely", "isCorrect": false, "rationale": "Namely 表示「即、就是」，用於具體說明前述內容。" }
+      { "text": "Moreover", "isCorrect": true, "rationale": "Moreover 是連接副詞，表示「此外、而且」，用於遞進補充。" },
+      { "text": "Conversely", "isCorrect": false, "rationale": "Conversely 表示「相反地」，不符合補充好處的語意。" },
+      { "text": "Nevertheless", "isCorrect": false, "rationale": "Nevertheless 表示「儘管如此」，用於轉折，不是遞進。" },
+      { "text": "In conclusion", "isCorrect": false, "rationale": "In conclusion 用於總結文章或段落，不是補充單一好處。" }
     ]
   },
   {
-    "question": "In-store sales have dropped significantly over the past quarter. _______, online sales have experienced unprecedented growth.",
-    "hint": "前後句在對比兩種不同通路的銷售狀況：實體下降，『另一方面』線上大幅成長。",
+    "question": "_______ playing the piano, she also plays the violin.",
+    "hint": "空格後方是 V-ing，表示「除了...之外還有」。",
     "answerOptions": [
-      { "text": "Consequently", "isCorrect": false, "rationale": "Consequently 表示因果關係，實體下跌並非線上成長的原因。" },
-      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 用於遞進補充，此處重點在於對比兩者走勢相反。" },
-      { "text": "On the other hand", "isCorrect": true, "rationale": "On the other hand 表示「另一方面」，適合用來對比截然不同的情況。" },
-      { "text": "In conclusion", "isCorrect": false, "rationale": "In conclusion 用於總結全文，此處並非總結。" }
+      { "text": "In addition to", "isCorrect": true, "rationale": "In addition to 是介系詞片語，後接 V-ing，表示「除了...之外還有」。" },
+      { "text": "In addition", "isCorrect": false, "rationale": "In addition 是連接副詞，通常用來銜接另一個完整句。" },
+      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 是連接副詞，不能直接接 V-ing 片語。" },
+      { "text": "Additionally", "isCorrect": false, "rationale": "Additionally 是副詞，不直接接 V-ing 片語作為介系詞用法。" }
     ]
   },
   {
-    "question": "The manufacturing facility failed to meet safety standards. _______, the local government ordered an immediate suspension of all production lines.",
-    "hint": "前後句為因果關係：工廠未達安全標準，『因此』被政府勒令停工。",
+    "question": "The shipment was delayed; _______, we notified the client immediately.",
+    "hint": "分號後需要表示結果的連接副詞。",
     "answerOptions": [
-      { "text": "Therefore", "isCorrect": true, "rationale": "Therefore 表示「因此」，引導前述原因所導致的必然結果。" },
-      { "text": "Besides", "isCorrect": false, "rationale": "Besides 表示「此外」，用於補充資訊，不符因果關係。" },
-      { "text": "Conversely", "isCorrect": false, "rationale": "Conversely 表示「相反地」，不合此處邏輯。" },
-      { "text": "Instead", "isCorrect": false, "rationale": "Instead 表示「反而」，通常用於否定某事後提出的替代方案。" }
+      { "text": "therefore", "isCorrect": true, "rationale": "therefore 是連接副詞，表示「因此」，可用於分號後銜接結果。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是從屬連接詞，不能放在分號後單獨銜接獨立句。" },
+      { "text": "because of", "isCorrect": false, "rationale": "because of 是介系詞片語，後面接名詞或 V-ing，不接完整句。" },
+      { "text": "although", "isCorrect": false, "rationale": "although 表示讓步，不符合前後因果結果關係。" }
     ]
   },
   {
-    "question": "Our consulting firm offers solutions tailored to various industries. _______, we recently helped a healthcare provider optimize its patient scheduling system.",
-    "hint": "前文提到服務各行各業，後文提到具體案例，為『例如/舉例說明』關係。",
+    "question": "We missed our connecting flight _______ the flight delay.",
+    "hint": "空格後方是名詞片語，表示原因。",
     "answerOptions": [
-      { "text": "For instance", "isCorrect": true, "rationale": "For instance 表示「例如」，用於引導具體的事例以支持前文。" },
-      { "text": "Consequently", "isCorrect": false, "rationale": "Consequently 表示因此，此處非因果關係。" },
-      { "text": "Otherwise", "isCorrect": false, "rationale": "Otherwise 表示「否則」，不合邏輯。" },
-      { "text": "In summary", "isCorrect": false, "rationale": "In summary 表示「總之」，用於對前文做整體的概括。" }
+      { "text": "because of", "isCorrect": true, "rationale": "because of 是介系詞片語，後接名詞片語 the flight delay。" },
+      { "text": "because", "isCorrect": false, "rationale": "because 是從屬連接詞，後方必須接完整子句。" },
+      { "text": "therefore", "isCorrect": false, "rationale": "therefore 是副詞，不能直接接名詞片語。" },
+      { "text": "as a result", "isCorrect": false, "rationale": "as a result 是副詞片語，通常銜接完整句，不直接接名詞片語。" }
     ]
   },
   {
-    "question": "_______ the severe weather conditions, the cargo ship arrived at the port ahead of schedule.",
-    "hint": "空格後接名詞片語 \"the severe weather conditions\"，且句意表示轉折（儘管天氣惡劣，仍提前抵達），需使用介係詞。",
+    "question": "Some people prefer to save their money, _______ others like to spend it on experiences.",
+    "hint": "空格前後是兩個完整子句，語意是對比兩個不同事實。",
     "answerOptions": [
-      { "text": "Although", "isCorrect": false, "rationale": "Although 是連接詞，後面必須接完整的子句（有主詞與動詞）。" },
-      { "text": "Despite", "isCorrect": true, "rationale": "Despite 是介係詞，表示「儘管」，後接名詞或代名詞，語法與語意皆正確。" },
-      { "text": "However", "isCorrect": false, "rationale": "However 是副詞，不能直接引導名詞片語作為讓步狀語。" },
-      { "text": "Even though", "isCorrect": false, "rationale": "Even though 是連接詞，後面必須接完整子句。" }
+      { "text": "whereas", "isCorrect": true, "rationale": "whereas 是從屬連接詞，用來對比兩個不同事實。" },
+      { "text": "despite", "isCorrect": false, "rationale": "despite 是介系詞，後方不能直接接完整子句。" },
+      { "text": "on the other hand", "isCorrect": false, "rationale": "on the other hand 是連接副詞片語，通常另起句或接在分號後。" },
+      { "text": "nevertheless", "isCorrect": false, "rationale": "nevertheless 表示讓步轉折，不是用來直接連接此處兩個對比子句。" }
     ]
   },
   {
-    "question": "The supervisor commended the team for their outstanding dedication to the project. _______, she authorized a bonus for all team members.",
-    "hint": "前後句為遞進與補充關係：主管稱讚團隊敬業，『此外/而且』還發放獎金。",
+    "question": "Regular exercise offers many health benefits. _______, it can reduce stress and improve sleep quality.",
+    "hint": "第二句提供具體例子。",
     "answerOptions": [
-      { "text": "On the contrary", "isCorrect": false, "rationale": "On the contrary 表示「相反地」，不符此處遞進累積的關係。" },
-      { "text": "Moreover", "isCorrect": true, "rationale": "Moreover 表示「此外、而且」，用於遞進補充正面的好消息。" },
-      { "text": "Instead", "isCorrect": false, "rationale": "Instead 表示「反而」，此處無替代或相反的關係。" },
-      { "text": "Nevertheless", "isCorrect": false, "rationale": "Nevertheless 表示「然而」，此處為順接遞進，非轉折。" }
+      { "text": "For instance", "isCorrect": true, "rationale": "For instance 表示「例如」，用於引導具體例子。" },
+      { "text": "In other words", "isCorrect": false, "rationale": "In other words 表示「換句話說」，用於重述，不是舉例。" },
+      { "text": "Therefore", "isCorrect": false, "rationale": "Therefore 表示因果結果，不是舉例。" },
+      { "text": "Overall", "isCorrect": false, "rationale": "Overall 表示整體而言，用於總結。" }
     ]
   },
   {
-    "question": "A strong currency can make imports cheaper for domestic consumers. _______, it can make domestic exports more expensive and less competitive abroad.",
-    "hint": "前半句講強勢貨幣對進口的好處，後半句講對出口的壞處，兩者互為相反狀況，應填『相反地』。",
+    "question": "The product is no longer under warranty. _______, you will have to pay for the repairs yourself.",
+    "hint": "第二句用更直接的方式解釋前一句。",
     "answerOptions": [
-      { "text": "Consequently", "isCorrect": false, "rationale": "Consequently 表示因果關係，出口變貴並非進口變便宜的結果。" },
-      { "text": "Conversely", "isCorrect": true, "rationale": "Conversely 表示「相反地」，用於對比互為相反或對立的兩種情況。" },
-      { "text": "Specifically", "isCorrect": false, "rationale": "Specifically 表示「具體來說」，用於闡述細節。" },
-      { "text": "In addition", "isCorrect": false, "rationale": "In addition 雖表示遞進，但無法突顯前後句在經濟效應上的相反對比。" }
+      { "text": "In other words", "isCorrect": true, "rationale": "In other words 表示「換句話說」，用於解釋或重述前一句。" },
+      { "text": "For example", "isCorrect": false, "rationale": "For example 用於舉例，此處不是舉例。" },
+      { "text": "Conversely", "isCorrect": false, "rationale": "Conversely 表示相反地，不符合重述語意。" },
+      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 表示此外，不是用來重述前文。" }
     ]
   },
   {
-    "question": "Mr. Harrison forgot to renew his professional certification; _______, he was temporarily barred from conducting audits.",
-    "hint": "注意分號用法。忘記更新專業證照，『結果/因此』被暫停審計資格，前後為因果關係。",
+    "question": "Superfoods _______ blueberries and spinach are rich in antioxidants.",
+    "hint": "空格後方列出名詞例子。",
     "answerOptions": [
-      { "text": "as a result", "isCorrect": true, "rationale": "as a result 表示「結果、因此」，為副詞片語，可用於「分號...逗號...」結構。" },
-      { "text": "instead", "isCorrect": false, "rationale": "instead 表示「反而」，不符因果關係。" },
-      { "text": "regardless", "isCorrect": false, "rationale": "regardless 表示「無論如何、不管怎樣」，多作副詞修飾或接 of 介係詞。" },
-      { "text": "on the other hand", "isCorrect": false, "rationale": "on the other hand 表示「另一方面」，此處並非對比兩種不同面向。" }
+      { "text": "such as", "isCorrect": true, "rationale": "such as 是介系詞用法，後接名詞例子。" },
+      { "text": "for example", "isCorrect": false, "rationale": "for example 通常作為插入語或句首副詞片語，不直接放在此處接名詞。" },
+      { "text": "namely", "isCorrect": false, "rationale": "namely 表示「即、也就是」，此處只是列舉例子，用 such as 較適合。" },
+      { "text": "that is", "isCorrect": false, "rationale": "that is 表示換句話說或也就是，不是一般列舉用法。" }
     ]
   },
   {
-    "question": "The department needs to cut expenses by ten percent next month. _______, we must reduce travel budgets and limit office supply purchases.",
-    "hint": "前句提到要縮減10%開支，後句詳細指出要減少差旅和辦公用品，此為『具體來說』的闡述關係。",
+    "question": "_______, the campaign was highly successful despite the limited budget.",
+    "hint": "句首用於整體總結。",
     "answerOptions": [
-      { "text": "Specifically", "isCorrect": true, "rationale": "Specifically 表示「具體來說」，用於進一步說明前文所述的細節。" },
-      { "text": "Nevertheless", "isCorrect": false, "rationale": "Nevertheless 表示「然而」，不符前後闡述關係。" },
-      { "text": "Otherwise", "isCorrect": false, "rationale": "Otherwise 表示「否則」，不符此處邏輯。" },
-      { "text": "Consequently", "isCorrect": false, "rationale": "Consequently 雖有因果意味，但在此處後句是在具體列舉 cut expenses 的項目，用 Specifically 最精準。" }
+      { "text": "Overall", "isCorrect": true, "rationale": "Overall 表示「整體而言」，常用於總結整體狀況。" },
+      { "text": "For instance", "isCorrect": false, "rationale": "For instance 用於舉例，不是總結。" },
+      { "text": "On the other hand", "isCorrect": false, "rationale": "On the other hand 用於對比另一面，不是總結。" },
+      { "text": "Besides", "isCorrect": false, "rationale": "Besides 表示此外，不是整體總結。" }
     ]
   },
   {
-    "question": "The committee did not approve the initial construction proposal. _______, they requested a complete revision of the environmental impact report.",
-    "hint": "前句使用了否定（沒有批准），後句提出替代的做法（要求修改報告），符合『反而/代替』的邏輯。",
+    "question": "He wants to learn Japanese. _______, he is currently studying English.",
+    "hint": "第二句補充額外資訊，且空格後有逗號。",
     "answerOptions": [
-      { "text": "Instead", "isCorrect": true, "rationale": "Instead 表示「反而、代替」，前面常有否定句（did not approve），指出不採取前述做法，而是採取後者。" },
-      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 表示遞進補充，此處非單純資訊增加。" },
-      { "text": "Thus", "isCorrect": false, "rationale": "Thus 表示因此，未批准不直接「因此」等同於要求修改（雖然有關聯，但「Instead 反而」更切合句中的否定對比語氣）。" },
-      { "text": "Namely", "isCorrect": false, "rationale": "Namely 表示「即、就是」，用於定義前文名詞，不合句意。" }
-    ]
-  },
-  {
-    "question": "_______ the quarterly report showed a minor deficit, the board of directors remained optimistic about the company's long-term growth.",
-    "hint": "空格後接完整子句 \"the quarterly report showed...\"，且句意表示轉折（雖然有微幅赤字，董事會依然樂觀），應填入連接詞。",
-    "answerOptions": [
-      { "text": "Although", "isCorrect": true, "rationale": "Although 是引導讓步子句的從屬連接詞，後面接完整子句，語法正確。" },
-      { "text": "However", "isCorrect": false, "rationale": "However 是副詞，不能直接引導從屬子句來連接主要子句。" },
-      { "text": "Despite", "isCorrect": false, "rationale": "Despite 是介係詞，後方只能接名詞或動名詞，不能接完整子句。" },
-      { "text": "In spite of", "isCorrect": false, "rationale": "In spite of 也是介係詞片語，後方不能接完整子句。" }
-    ]
-  },
-  {
-    "question": "The laboratory equipment is highly sensitive; _______, all researchers must handle it with extreme caution.",
-    "hint": "設備極為敏感，『因此』研究人員必須極度小心。注意分號與逗號的結構，應填入轉折副詞。",
-    "answerOptions": [
-      { "text": "hence", "isCorrect": true, "rationale": "hence 是副詞，表示「因此」，可用於「分號...逗號...」結構中引導因果結果。" },
-      { "text": "besides", "isCorrect": false, "rationale": "besides 表示此外，不符前後因果關係。" },
-      { "text": "nonetheless", "isCorrect": false, "rationale": "nonetheless 表示然而、儘管如此，不符邏輯。" },
-      { "text": "conversely", "isCorrect": false, "rationale": "conversely 表示相反地，不符邏輯。" }
-    ]
-  },
-  {
-    "question": "The project faced minor delays and budget overruns during the initial phase. _______, the venture proved to be highly profitable.",
-    "hint": "前文提到初期的延誤與超支，後文指出投資獲利極高，這裡是用來做整體的結論與概括（整體而言）。",
-    "answerOptions": [
-      { "text": "Namely", "isCorrect": false, "rationale": "Namely 表示「即、就是」，不合語意。" },
-      { "text": "Overall", "isCorrect": true, "rationale": "Overall 表示「整體而言、大體上」，常用於總結一項事物雖然有部分瑕疵，但大體上依然良好。" },
-      { "text": "For instance", "isCorrect": false, "rationale": "For instance 用於舉例，此處並非舉例。" },
-      { "text": "In addition", "isCorrect": false, "rationale": "In addition 表示遞進補充，此處重點在於總結與對比。" }
-    ]
-  },
-  {
-    "question": "The market survey indicates that consumers are hesitant to buy high-priced electronics. Our company, _______, plans to launch the premium smartphone next month.",
-    "hint": "注意此為句中插入語用法。市調指出消費者不願買高價產品，我們公司『儘管如此/然而』仍計畫推出高階手機。",
-    "answerOptions": [
-      { "text": "nonetheless", "isCorrect": true, "rationale": "nonetheless 表示「儘管如此、然而」，為轉折副詞，適合置於雙逗號中間作為句中插入語。" },
-      { "text": "therefore", "isCorrect": false, "rationale": "therefore 表示因此，市調不佳通常不會是推出高階產品的「因果原因」。" },
-      { "text": "addition", "isCorrect": false, "rationale": "addition 為名詞，在此處不具副詞功能，文法不符。" },
-      { "text": "besides", "isCorrect": false, "rationale": "besides 表示此外，此處非遞進關係而是轉折關係。" }
-    ]
-  },
-  {
-    "question": "Our company decided to implement a remote-first policy. _______, employees are no longer required to work from the physical office.",
-    "hint": "前句說實施「遠端優先政策」，後句解釋其意思（不需到實體辦公室上班），前後意思等同，應填『換句話說』。",
-    "answerOptions": [
-      { "text": "In other words", "isCorrect": true, "rationale": "In other words 表示「換句話說」，用於進一步闡述或用更簡單的方式解釋前文。" },
-      { "text": "On the contrary", "isCorrect": false, "rationale": "On the contrary 表示「相反地」，不合此處邏輯。" },
-      { "text": "On the other hand", "isCorrect": false, "rationale": "On the other hand 表示「另一方面」，用於對比不同的面向。" },
-      { "text": "In contrast", "isCorrect": false, "rationale": "In contrast 用於對比兩個不同的事物。" }
-    ]
-  },
-  {
-    "question": "The demand for eco-friendly packaging has risen dramatically. _______, the manufacturer has adjusted its production lines to meet the new market trend.",
-    "hint": "環保包裝需求大幅上升，製造商『因此/於是』調整生產線以迎合市場趨勢。前後為因果與相應關係。",
-    "answerOptions": [
-      { "text": "Accordingly", "isCorrect": true, "rationale": "Accordingly 表示「於是、因此、相應地」，常用於表示根據前文的情況而做出的相應行動。" },
-      { "text": "Conversely", "isCorrect": false, "rationale": "Conversely 表示「相反地」，不符此處邏輯。" },
-      { "text": "Nevertheless", "isCorrect": false, "rationale": "Nevertheless 表示「然而」，此處是順接的相應行動，非轉折。" },
-      { "text": "Otherwise", "isCorrect": false, "rationale": "Otherwise 表示「否則」，不符此處邏輯。" }
-    ]
-  },
-  {
-    "question": "All employees must submit their timesheets by Friday afternoon. _______, they may experience a delay in receiving their monthly payments.",
-    "hint": "員工必須在週五下午前提交工時表，『否則』可能會延遲收到月薪。後半句為不遵守前述條件會導致的後果。",
-    "answerOptions": [
-      { "text": "Otherwise", "isCorrect": true, "rationale": "Otherwise 表示「否則」，引導在某條件未滿足下會發生的否定或不希望發生的結果。" },
-      { "text": "Therefore", "isCorrect": false, "rationale": "Therefore 表示「因此」，此處後半句並非正常提交工時表後產生的「因此」結果。" },
-      { "text": "Furthermore", "isCorrect": false, "rationale": "Furthermore 表示「此外」，此處非單純追加新資訊。" },
-      { "text": "Namely", "isCorrect": false, "rationale": "Namely 表示「即、就是」，用於解釋名詞，不合句意。" }
+      { "text": "Besides", "isCorrect": true, "rationale": "Besides 作為副詞時可放句首並加逗號，表示「此外」。" },
+      { "text": "In addition to", "isCorrect": false, "rationale": "In addition to 是介系詞片語，後方接名詞或 V-ing，不接完整句。" },
+      { "text": "Instead of", "isCorrect": false, "rationale": "Instead of 表示「而不是」，後方接名詞或 V-ing，不接完整句。" },
+      { "text": "Despite", "isCorrect": false, "rationale": "Despite 是介系詞，後方不接完整句。" }
     ]
   }
 ]
