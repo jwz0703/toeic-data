@@ -1,14 +1,14 @@
-# 英文文法特訓：轉折詞 (Transitions) 完全指南
+# 連接語與轉承詞 
 
-轉折詞（Transitions）在寫作中扮演橋樑的角色。然而，許多學習者常因為  **混淆了轉折詞的「詞性」**  而寫出錯誤的句子。
+連接語與轉承詞（Transitions）在閱讀與寫作中扮演橋樑的角色。多益 Part 5、Part 6 常考的不是單字中文意思，而是考生是否能判斷  **空格後面要接完整句子、名詞片語，還是另一個獨立句** 。
 
-本講義將轉折詞依  **「語意分類」**  與  **「語法功能（詞性）」**  進行交叉整理，幫助你掌握正確的句型結構。
+本講義先建立  **「語法功能（詞性）」**  的答題框架，再依  **語意分類**  整理常見用法。若要深入學習因果題，請搭配 `causality_relation.md`。
 
 ---
 
-## 一、 核心語法：三大類轉折詞的公式與標點
+## 一、 核心判斷：先看詞性，再看語意
 
-在學習個別字彙前，請先掌握以下三種詞性的基本句型公式。  **標點符號與結構完全不同：**
+在學習個別字彙前，請先掌握以下三種詞性的基本句型公式。多益題目通常可以先用結構刪掉錯誤選項，再用語意選出答案。
 
 ### 1. 連接副詞 (Conjunctive Adverbs)
 *  **常見字眼** ： *However, Therefore, Moreover, Consequently*
@@ -47,7 +47,7 @@
 
 ####  A. 連接副詞用法（前後需用句點或分號隔開）
 *  **However** : 然而
-*  **Nevertheles / Nonetheless** : 儘管如此、然而 (較正式)
+*  **Nevertheless / Nonetheless** : 儘管如此、然而 (較正式)
 *  **On the other hand** : 另一方面
 *  **Conversely** : 相反地
   *  **例句** : The weather forecast predicted rain.  **However** , the sun shone brightly all day.
@@ -85,6 +85,8 @@
 ---
 
 ### 3. 表示「因果關係」 (Cause & Effect)
+
+因果關係在多益中很常獨立成題。本節只列出總覽，詳細解題策略請看 `causality_relation.md`。
 
 ####  A. 連接副詞用法（表示結果）
 *  **Therefore / Consequently** : 因此、結果
@@ -141,7 +143,7 @@
 ### 2. Besides (副詞) vs. Besides (介系詞)
 當 `Besides` 作為介系詞時，後面必須接名詞；作為副詞時，後面要放逗號並連接完整句子。
 * ❌  **錯誤** ：  **Besides**  study English, he also learns Japanese.
-* ✔️  **正確 (介系詞)** ：  **Besides**  study  **ing**  English, he also learns Japanese. (後接 V-ing)
+* ✔️  **正確 (介系詞)** ：  **Besides studying**  English, he also learns Japanese. (後接 V-ing)
 * ✔️  **正確 (副詞)** ： He wants to learn Japanese.  **Besides** , he is currently studying English. (獨立成句)
 
 ### 3. Therefore (副詞) vs. Because (連接詞) vs. Because of (介系詞)
@@ -150,4 +152,20 @@
 * ✔️  **正確 (連接詞)** ： We stayed indoors  **because**  the storm was fierce.
 * ✔️  **正確 (副詞)** ： A fierce storm was approaching.  **Therefore** , we stayed indoors.
 
-`version 1.1`
+---
+
+## 四、 多益解題練習：先判斷空格後方結構
+
+請先不要翻中文，先看空格後面接的是什麼結構。
+
+1. `_____ the heavy rain, the outdoor event was canceled.`
+   * 空格後面是名詞片語 `the heavy rain`。
+   * 答案方向：表示原因的介系詞片語，例如 `Because of / Due to`。
+2. `_____ the weather was bad, the outdoor event continued as planned.`
+   * 空格後面是完整子句 `the weather was bad`。
+   * 答案方向：表示讓步的從屬連接詞，例如 `Although / Even though`。
+3. `The supplier missed the deadline; _____, we had to delay the launch.`
+   * 空格前有分號，空格後是獨立句。
+   * 答案方向：連接副詞，例如 `therefore / consequently / however`。
+
+`version 1.2`
