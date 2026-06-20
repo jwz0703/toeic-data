@@ -1,52 +1,202 @@
 [
   {
-    "question": "This is the _______ movie I have ever seen.",
-    "hint": "與 ever seen 連用且有 the，通常表示最高級。",
+    "question": "Our office is _______ than usual this week due to the upcoming merger.",
+    "hint": "看到 than 表示要用比較級，且 busy 是「子音 + y」結尾的短形容詞。",
     "answerOptions": [
-      { "text": "better", "isCorrect": false, "rationale": "better 是比較級。" },
-      { "text": "best", "isCorrect": true, "rationale": "best 是 good 的最高級，用於三者以上或一生之最。" },
-      { "text": "good", "isCorrect": false, "rationale": "原級不符句意。" },
-      { "text": "most good", "isCorrect": false, "rationale": "good 的最高級是 best，不加 most。" }
+      { "text": "busy", "isCorrect": false, "rationale": "busy 是原級，後面有 than 時不適用。" },
+      { "text": "busier", "isCorrect": true, "rationale": "busy 的比較級去 y 加 ier，與 than 搭配符合句意。" },
+      { "text": "busiest", "isCorrect": false, "rationale": "busiest 是最高級，前面通常有 the，且不與 than 搭配。" },
+      { "text": "more busy", "isCorrect": false, "rationale": "busy 是短形容詞，比較級不使用 more。" }
     ]
   },
   {
-    "question": "The more you practice, the _______ you will become.",
-    "hint": "The + 比較級, the + 比較級，表示「越...就越...」。",
+    "question": "Please check the financial figures _______ before submitting the report to the manager.",
+    "hint": "此處要修飾動詞 check（檢查），且語意上要求「更仔細地」，應選副詞比較級。",
     "answerOptions": [
-      { "text": "better", "isCorrect": true, "rationale": "這是雙重比較級句型，需使用比較級 better。" },
-      { "text": "best", "isCorrect": false, "rationale": "此句型固定接比較級。" },
-      { "text": "good", "isCorrect": false, "rationale": "此句型固定接比較級。" },
-      { "text": "well", "isCorrect": false, "rationale": "雖然 well 是副詞，但此句型需用比較級。" }
+      { "text": "careful", "isCorrect": false, "rationale": "careful 是形容詞，無法修飾動詞 check。" },
+      { "text": "carefully", "isCorrect": false, "rationale": "carefully 是副詞原級，此處需要更進一步比較的比較級。" },
+      { "text": "more carefully", "isCorrect": true, "rationale": "more carefully 是副詞比較級，用來修飾動詞 check，表示「更仔細地」。" },
+      { "text": "most carefully", "isCorrect": false, "rationale": "most carefully 是最高級，此處無最高級的比較範圍。" }
     ]
   },
   {
-    "question": "He is _______ than any other student in his class.",
-    "hint": "比較級 + than any other + 單數名詞，可用來表達最高級的含義。",
+    "question": "The newly designed online registration form is as _______ as the traditional paper version.",
+    "hint": "as ... as 中間必須放原級。",
     "answerOptions": [
-      { "text": "tall", "isCorrect": false, "rationale": "需要比較級。" },
-      { "text": "taller", "isCorrect": true, "rationale": "比較級 taller 搭配 than。" },
-      { "text": "tallest", "isCorrect": false, "rationale": "tallest 通常與 the 連用，且不接 than any other。" },
-      { "text": "as tall", "isCorrect": false, "rationale": "as tall 搭配 as。" }
+      { "text": "simple", "isCorrect": true, "rationale": "as ... as 結構中間必須使用形容詞或副詞的原級。" },
+      { "text": "simpler", "isCorrect": false, "rationale": "simpler 是比較級，不能放在 as ... as 中間。" },
+      { "text": "simplest", "isCorrect": false, "rationale": "simplest 是最高級，不符合 as ... as 結構。" },
+      { "text": "more simple", "isCorrect": false, "rationale": "simple 的比較級為 simpler，且 as ... as 中間不放比較級。" }
     ]
   },
   {
-    "question": "She is as _______ as her sister.",
-    "hint": "as... as... 之間必須使用「原級」形容詞或副詞。",
+    "question": "With the new update, the database system operates _______ than it did last month.",
+    "hint": "修飾動詞 operates，後面有 than 提示比較級，應使用副詞比較級。",
     "answerOptions": [
-      { "text": "smart", "isCorrect": true, "rationale": "as... as 中間放原級 smart。" },
-      { "text": "smarter", "isCorrect": false, "rationale": "比較級不放在 as... as 中。" },
-      { "text": "smartest", "isCorrect": false, "rationale": "最高級不放在 as... as 中。" },
-      { "text": "more smart", "isCorrect": false, "rationale": "語法錯誤。" }
+      { "text": "smooth", "isCorrect": false, "rationale": "smooth 是形容詞，不能修飾動詞 operates。" },
+      { "text": "smoothly", "isCorrect": false, "rationale": "smoothly 是副詞原級，與後方的 than 不搭配。" },
+      { "text": "more smoothly", "isCorrect": true, "rationale": "more smoothly 是副詞比較級，正確修飾動詞 operates 且與 than 搭配。" },
+      { "text": "smoother", "isCorrect": false, "rationale": "smoother 是形容詞比較級，不能修飾一般動詞。" }
     ]
   },
   {
-    "question": "My phone is much _______ than yours.",
-    "hint": "可以用 much, even, far, a lot 等詞來修飾比較級。",
+    "question": "The simplified registration policy made the onboarding process _______ for all new hires.",
+    "hint": "「make + 受詞 + 形容詞比較級」可用來修飾受詞狀態，且 simple 屬於短形容詞。",
     "answerOptions": [
-      { "text": "expensive", "isCorrect": false, "rationale": "than 之前需用比較級。" },
-      { "text": "more expensive", "isCorrect": true, "rationale": "多音節形容詞的比較級是 more + 原級。" },
-      { "text": "most expensive", "isCorrect": false, "rationale": "最高級不接 than。" },
-      { "text": "expensiver", "isCorrect": false, "rationale": "多音節形容詞不加 -er。" }
+      { "text": "simple", "isCorrect": false, "rationale": "此處語意表示比以前「更簡單」，應使用比較級而非原級。" },
+      { "text": "simpler", "isCorrect": true, "rationale": "simpler 是 simple 的比較級，符合「讓……變得更簡單」的用法。" },
+      { "text": "simplest", "isCorrect": false, "rationale": "此處並非三者以上的最高級比較。" },
+      { "text": "more simple", "isCorrect": false, "rationale": "simple 的比較級為 simpler，不使用 more simple。" }
+    ]
+  },
+  {
+    "question": "The updated accounting software is _______ faster than the previous edition.",
+    "hint": "修飾比較級 faster，要選擇合適的程度副詞，不能使用 very 或 many。",
+    "answerOptions": [
+      { "text": "very", "isCorrect": false, "rationale": "very 不能直接修飾比較級。" },
+      { "text": "even", "isCorrect": true, "rationale": "even 是常用來修飾比較級的程度副詞，表示「甚至更……」。" },
+      { "text": "many", "isCorrect": false, "rationale": "many 用來修飾可數複數名詞，不能修飾形容詞比較級。" },
+      { "text": "more", "isCorrect": false, "rationale": "faster 本身已經是比較級，前方不可再重複加 more。" }
+    ]
+  },
+  {
+    "question": "This marketing plan is _______ more practical than the first proposal we discussed.",
+    "hint": "修飾比較級 more practical，應選擇合適的程度副詞。",
+    "answerOptions": [
+      { "text": "very", "isCorrect": false, "rationale": "very 不能修飾比較級。" },
+      { "text": "many", "isCorrect": false, "rationale": "many 不能修飾形容詞比較級。" },
+      { "text": "much", "isCorrect": true, "rationale": "much 是修飾比較級常見的程度副詞，表示「……得多」。" },
+      { "text": "more", "isCorrect": false, "rationale": "more practical 前面不能再重複使用 more。" }
+    ]
+  },
+  {
+    "question": "After the software update, we noticed that the system experienced _______ errors.",
+    "hint": "errors 是可數複數名詞，表示「更少」時應使用 fewer。",
+    "answerOptions": [
+      { "text": "less", "isCorrect": false, "rationale": "less 用於修飾不可數名詞，而 errors 是可數複數名詞。" },
+      { "text": "fewer", "isCorrect": true, "rationale": "fewer 用於修飾可數複數名詞，表示「更少的（錯誤）」。" },
+      { "text": "least", "isCorrect": false, "rationale": "least 是最高級，在此不符句意與結構。" },
+      { "text": "fewest", "isCorrect": false, "rationale": "fewest 是最高級，在此不符句意與結構。" }
+    ]
+  },
+  {
+    "question": "The newly implemented automation process requires _______ maintenance than before.",
+    "hint": "maintenance 是不可數名詞，表示「更少」時應使用 less。",
+    "answerOptions": [
+      { "text": "fewer", "isCorrect": false, "rationale": "fewer 用於可數複數名詞，而 maintenance 是不可數名詞。" },
+      { "text": "less", "isCorrect": true, "rationale": "less 用於不可數名詞，表示「較少的（維護）」，與 than 搭配。" },
+      { "text": "least", "isCorrect": false, "rationale": "least 是最高級，此處有 than 表示兩者比較，不適用。" },
+      { "text": "few", "isCorrect": false, "rationale": "few 用於可數名詞，且此處需要比較級。" }
+    ]
+  },
+  {
+    "question": "The board agreed that the second candidate was _______ for the regional director position.",
+    "hint": "well-qualified 是複合形容詞，其比較級應將 well 改為 better。",
+    "answerOptions": [
+      { "text": "well-qualified", "isCorrect": false, "rationale": "此處有隱含的兩者比較，不應使用原級。" },
+      { "text": "more well-qualified", "isCorrect": false, "rationale": "well-qualified 變比較級時，多益考試優先選擇 better-qualified。" },
+      { "text": "better-qualified", "isCorrect": true, "rationale": "well-qualified 的比較級應將 well 變為 better，寫成 better-qualified。" },
+      { "text": "best-qualified", "isCorrect": false, "rationale": "best-qualified 是最高級，此處為兩者之間的比較。" }
+    ]
+  },
+  {
+    "question": "The marketing team performed _______ during the second presentation than during the first one.",
+    "hint": "修飾動詞 performed 且有 than 進行比較，應選 well 的比較級 better。",
+    "answerOptions": [
+      { "text": "good", "isCorrect": false, "rationale": "good 是形容詞，不能修飾動詞 performed。" },
+      { "text": "well", "isCorrect": false, "rationale": "well 是副詞原級，但後方有 than 表示需要比較級。" },
+      { "text": "better", "isCorrect": true, "rationale": "better 是副詞 well 的比較級，修飾 performed 且與 than 搭配正確。" },
+      { "text": "best", "isCorrect": false, "rationale": "best 是最高級，此處為兩次簡報的兩兩比較。" }
+    ]
+  },
+  {
+    "question": "The ordered replacement components arrived not as _______ as the procurement department expected.",
+    "hint": "not as ... as 結構中間必須放形容詞或副詞原級，且此處修飾動詞 arrived，應使用副詞。",
+    "answerOptions": [
+      { "text": "quickly", "isCorrect": true, "rationale": "quickly 是副詞原級，修飾動詞 arrived，且完美符合 not as ... as 結構。" },
+      { "text": "more quickly", "isCorrect": false, "rationale": "more quickly 是比較級，不能放在 as ... as 中間。" },
+      { "text": "most quickly", "isCorrect": false, "rationale": "most quickly 是最高級，不符合原級比較結構。" },
+      { "text": "quick", "isCorrect": false, "rationale": "quick 是形容詞，不能修飾動詞 arrived。" }
+    ]
+  },
+  {
+    "question": "The _______ you submit your registration, the lower the early-bird fee will be.",
+    "hint": "此句為「The + 比較級, the + 比較級」的句型，表示「越……，越……」。",
+    "answerOptions": [
+      { "text": "early", "isCorrect": false, "rationale": "early 是原級，不符合 the + 比較級的句型。" },
+      { "text": "earlier", "isCorrect": true, "rationale": "earlier 是比較級，符合「越早（報名），（費用）越低」的對稱句型。" },
+      { "text": "earliest", "isCorrect": false, "rationale": "earliest 是最高級，不符合此句型。" },
+      { "text": "more early", "isCorrect": false, "rationale": "early 的比較級為 earlier，不使用 more early。" }
+    ]
+  },
+  {
+    "question": "Of the two marketing proposals, the director decided that the first one is _______ practical.",
+    "hint": "兩者之中「比較……的那一個」，結構要用「the + 比較級」。",
+    "answerOptions": [
+      { "text": "more", "isCorrect": false, "rationale": "僅填 more 缺少了限定兩者中特定那一個的定冠詞 the。" },
+      { "text": "most", "isCorrect": false, "rationale": "兩者比較不使用最高級。" },
+      { "text": "the more", "isCorrect": true, "rationale": "「the + 比較級 + of the two」為固定結構，指兩者中較……的那一個。" },
+      { "text": "the most", "isCorrect": false, "rationale": "the most 是最高級，用於三者或以上的比較。" }
+    ]
+  },
+  {
+    "question": "Although the schedule was tight, the team had _______ productive meeting.",
+    "hint": "quite 修飾單數可數名詞片語時，冠詞 a 應置於 quite 之後。",
+    "answerOptions": [
+      { "text": "a quite", "isCorrect": false, "rationale": "quite 修飾名詞時，冠詞 a 必須放在 quite 後面，a quite 順序錯誤。" },
+      { "text": "quite a", "isCorrect": true, "rationale": "「quite + a/an + 形容詞 + 名詞」是固定結構，表示「相當……的……」。" },
+      { "text": "so a", "isCorrect": false, "rationale": "so 的結構為「so + 形容詞 + a/an + 名詞」，不符此處順序。" },
+      { "text": "such", "isCorrect": false, "rationale": "若使用 such，後面需搭配 a，即 such a productive meeting，單用 such 不完整。" }
+    ]
+  },
+  {
+    "question": "Please submit the expense reimbursement requests no _______ than Friday at 5:00 P.M.",
+    "hint": "考固定片語，表示「不晚於…… / 最晚於……」。",
+    "answerOptions": [
+      { "text": "late", "isCorrect": false, "rationale": "此處應使用比較級構成固定片語。" },
+      { "text": "later", "isCorrect": true, "rationale": "no later than 為固定用法，表示「不晚於……」。" },
+      { "text": "latest", "isCorrect": false, "rationale": "最高級不符合此固定片語。" },
+      { "text": "lately", "isCorrect": false, "rationale": "lately 是副詞，意思是「最近」，不符句意。" }
+    ]
+  },
+  {
+    "question": "Customers who receive discount coupons are more _______ to complete their online purchases.",
+    "hint": "考固定句型「be more likely to V」，表示「更有可能……」。",
+    "answerOptions": [
+      { "text": "like", "isCorrect": false, "rationale": "like 在此處作動詞或介係詞，不符合 be more ... to V 的結構。" },
+      { "text": "likely", "isCorrect": true, "rationale": "be likely to V 表示「有可能……」，加上 more 構成「更有可能……」。" },
+      { "text": "likelier", "isCorrect": false, "rationale": "雖然 likely 的比較級可以是 likelier，但此處前面已有 more，不能重複使用比較級。" },
+      { "text": "likeness", "isCorrect": false, "rationale": "likeness 是名詞，意思是不符句意。" }
+    ]
+  },
+  {
+    "question": "This local branch is the _______ of the three locations in terms of daily sales volume.",
+    "hint": "有定冠詞 the 且範圍是三者（of the three...），應使用最高級。",
+    "answerOptions": [
+      { "text": "busy", "isCorrect": false, "rationale": "原級不符合 the ... of the three 的最高級結構。" },
+      { "text": "busier", "isCorrect": false, "rationale": "busier 是比較級，用於兩者比較，此處有三個據點。" },
+      { "text": "busiest", "isCorrect": true, "rationale": "busiest 是最高級，與 the 搭配，表示三者中「最忙碌的」。" },
+      { "text": "most busy", "isCorrect": false, "rationale": "busy 的最高級為 busiest，不加 most。" }
+    ]
+  },
+  {
+    "question": "Our headquarters is larger than _______ other branch in the country.",
+    "hint": "利用比較級表達最高級的句型：「比較級 + than any other + 單數名詞」。",
+    "answerOptions": [
+      { "text": "any", "isCorrect": true, "rationale": "「than any other + 單數名詞（branch）」為固定句型，表示「比任何其他……都更……」。" },
+      { "text": "some", "isCorrect": false, "rationale": "some other 後面通常接複數名詞，且不符合此特定比較級句型。" },
+      { "text": "many", "isCorrect": false, "rationale": "many other 後面接複數名詞，不符合單數名詞 branch。" },
+      { "text": "all", "isCorrect": false, "rationale": "若使用 all，後面的名詞應為複數（all other branches）。" }
+    ]
+  },
+  {
+    "question": "We received _______ applications than last year for the internship program.",
+    "hint": "有 than 提示比較級，applications 為複數名詞，表示「更多」應使用 many 的比較級。",
+    "answerOptions": [
+      { "text": "many", "isCorrect": false, "rationale": "many 是原級，不與 than 搭配。" },
+      { "text": "more", "isCorrect": true, "rationale": "more 是 many 的比較級，修飾 applications than 表示「比……更多的申請」。" },
+      { "text": "most", "isCorrect": false, "rationale": "most 是最高級，不符合與 than 搭配的比較級結構。" },
+      { "text": "much", "isCorrect": false, "rationale": "much 用於修飾不可數名詞，不適用於可數複數名詞 applications。" }
     ]
   }
 ]
