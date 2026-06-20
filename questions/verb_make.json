@@ -1,0 +1,152 @@
+[
+  {
+    "question": "The new software made the registration process _______.",
+    "hint": "make + 受詞 + 形容詞，表示使流程變得如何。",
+    "answerOptions": [
+      { "text": "easier", "isCorrect": true, "rationale": "make + 受詞 + 形容詞，easier 補充說明 the registration process 的狀態。" },
+      { "text": "easily", "isCorrect": false, "rationale": "easily 是副詞，不能作為受詞補語說明 process 的狀態。" },
+      { "text": "ease", "isCorrect": false, "rationale": "ease 是名詞或動詞，不符合 make + 受詞 + 形容詞 的結構。" },
+      { "text": "easiness", "isCorrect": false, "rationale": "easiness 是名詞，不適合作為此處的受詞補語。" }
+    ]
+  },
+  {
+    "question": "The announcement made everyone _______ about the upcoming changes.",
+    "hint": "make + 人 + 形容詞，表示讓人產生某種情緒。",
+    "answerOptions": [
+      { "text": "nervous", "isCorrect": true, "rationale": "nervous 是形容詞，可作受詞 everyone 的補語。" },
+      { "text": "nervously", "isCorrect": false, "rationale": "nervously 是副詞，不能補充說明 everyone 的狀態。" },
+      { "text": "nervousness", "isCorrect": false, "rationale": "nervousness 是名詞，不符合 make + 人 + 形容詞 的常見結構。" },
+      { "text": "nerve", "isCorrect": false, "rationale": "nerve 不是此句需要的情緒形容詞。" }
+    ]
+  },
+  {
+    "question": "The manager made the interns _______ the conference room after the meeting.",
+    "hint": "make 作使役動詞時，主動語態後接原形動詞。",
+    "answerOptions": [
+      { "text": "clean", "isCorrect": true, "rationale": "make + 人 + 原形動詞，表示要求某人做某事。" },
+      { "text": "to clean", "isCorrect": false, "rationale": "主動語態中的使役動詞 make 後面不加 to。" },
+      { "text": "cleaning", "isCorrect": false, "rationale": "make 作使役動詞時，此處應接原形動詞，不是 V-ing。" },
+      { "text": "cleaned", "isCorrect": false, "rationale": "cleaned 是過去式或過去分詞，不符合主動使役句型。" }
+    ]
+  },
+  {
+    "question": "Employees were made _______ stricter safety procedures.",
+    "hint": "make 的被動語態中，後面的動詞要補回 to。",
+    "answerOptions": [
+      { "text": "to follow", "isCorrect": true, "rationale": "make 用於被動語態時，結構為 be made to V。" },
+      { "text": "follow", "isCorrect": false, "rationale": "主動語態才用原形動詞；被動語態需補回 to。" },
+      { "text": "following", "isCorrect": false, "rationale": "此句不是進行式，也不是 V-ing 作補語的結構。" },
+      { "text": "followed", "isCorrect": false, "rationale": "followed 不符合 be made to V 的被動使役句型。" }
+    ]
+  },
+  {
+    "question": "The speaker raised her voice to make herself _______ in the large auditorium.",
+    "hint": "聲音是「被聽見」，受詞與動作是被動關係。",
+    "answerOptions": [
+      { "text": "heard", "isCorrect": true, "rationale": "make oneself heard 是固定句型，heard 表示自己被聽見。" },
+      { "text": "hearing", "isCorrect": false, "rationale": "hearing 表示主動聽，不符合 herself 被聽見的語意。" },
+      { "text": "hear", "isCorrect": false, "rationale": "hear 是原形動詞，會變成自己去聽，語意不合。" },
+      { "text": "to hear", "isCorrect": false, "rationale": "make herself to hear 不是正確結構，也不符合被動語意。" }
+    ]
+  },
+  {
+    "question": "He used several examples to make his proposal _______ to the committee.",
+    "hint": "想法或提案是「被理解」，應使用過去分詞。",
+    "answerOptions": [
+      { "text": "understood", "isCorrect": true, "rationale": "make something understood 表示讓某事被理解，understood 是過去分詞。" },
+      { "text": "understanding", "isCorrect": false, "rationale": "understanding 表示主動理解，不符合 proposal 被理解的語意。" },
+      { "text": "understand", "isCorrect": false, "rationale": "proposal 不能主動 understand，語意不合。" },
+      { "text": "to understand", "isCorrect": false, "rationale": "此處不是 make + 人 + to V，且主動語意不符合。" }
+    ]
+  },
+  {
+    "question": "The board made Ms. Rivera _______ of the finance committee.",
+    "hint": "make + 受詞 + 名詞，表示任命某人成為某職位。",
+    "answerOptions": [
+      { "text": "chairperson", "isCorrect": true, "rationale": "make + 人 + 名詞可表示使某人成為某身分或職位。" },
+      { "text": "chairing", "isCorrect": false, "rationale": "chairing 是 V-ing，不符合任命職位的名詞補語用法。" },
+      { "text": "to chair", "isCorrect": false, "rationale": "此句重點是任命為職位，不是要求她去主持某事。" },
+      { "text": "chairpersonly", "isCorrect": false, "rationale": "chairpersonly 不是正確的英文用法。" }
+    ]
+  },
+  {
+    "question": "The online portal makes it easy _______ expense reports.",
+    "hint": "make it + 形容詞 + to V，it 是形式受詞。",
+    "answerOptions": [
+      { "text": "to submit", "isCorrect": true, "rationale": "make it + 形容詞 + to V 是常見句型，表示讓做某事變得容易。" },
+      { "text": "submit", "isCorrect": false, "rationale": "此處 it 是形式受詞，真正的受詞需用 to V 表示。" },
+      { "text": "submitting", "isCorrect": false, "rationale": "此句常見結構為 make it easy to V，不用 V-ing。" },
+      { "text": "submitted", "isCorrect": false, "rationale": "submitted 是過去分詞，不符合 make it easy to V 的結構。" }
+    ]
+  },
+  {
+    "question": "The delay made it impossible _______ the order by Monday.",
+    "hint": "make it + 形容詞 + to V，表示使某事變得不可能。",
+    "answerOptions": [
+      { "text": "to deliver", "isCorrect": true, "rationale": "make it impossible to V 表示讓做某事變得不可能。" },
+      { "text": "deliver", "isCorrect": false, "rationale": "此處真正的受詞需以 to V 表示。" },
+      { "text": "delivering", "isCorrect": false, "rationale": "make it impossible 後面通常接 to V，而不是 V-ing。" },
+      { "text": "delivered", "isCorrect": false, "rationale": "delivered 不符合 make it impossible to V 的句型。" }
+    ]
+  },
+  {
+    "question": "The committee will _______ a decision after reviewing all proposals.",
+    "hint": "固定搭配，表示做決定。",
+    "answerOptions": [
+      { "text": "make", "isCorrect": true, "rationale": "make a decision 是固定搭配，表示「做決定」。" },
+      { "text": "do", "isCorrect": false, "rationale": "英文中通常說 make a decision，不說 do a decision。" },
+      { "text": "take", "isCorrect": false, "rationale": "take a decision 在部分英式用法可見，但多益常考標準搭配為 make a decision。" },
+      { "text": "create", "isCorrect": false, "rationale": "create a decision 不是自然的固定搭配。" }
+    ]
+  },
+  {
+    "question": "I would like to _______ an appointment with the sales director.",
+    "hint": "固定搭配，表示預約。",
+    "answerOptions": [
+      { "text": "make", "isCorrect": true, "rationale": "make an appointment 是固定搭配，表示「預約」。" },
+      { "text": "do", "isCorrect": false, "rationale": "do an appointment 不是正確搭配。" },
+      { "text": "perform", "isCorrect": false, "rationale": "perform 表示執行或表演，不與 appointment 搭配表示預約。" },
+      { "text": "produce", "isCorrect": false, "rationale": "produce 表示生產，不符合預約的語意。" }
+    ]
+  },
+  {
+    "question": "We need to _______ a reservation for six people tonight.",
+    "hint": "固定搭配，表示訂位或預訂。",
+    "answerOptions": [
+      { "text": "make", "isCorrect": true, "rationale": "make a reservation 是固定搭配，表示「訂位、預訂」。" },
+      { "text": "do", "isCorrect": false, "rationale": "do a reservation 不是正確搭配。" },
+      { "text": "have", "isCorrect": false, "rationale": "have a reservation 表示已有訂位，不表示進行訂位這個動作。" },
+      { "text": "set", "isCorrect": false, "rationale": "set a reservation 不是多益常見標準搭配。" }
+    ]
+  },
+  {
+    "question": "The customer called to _______ a complaint about the damaged package.",
+    "hint": "固定搭配，表示提出抱怨。",
+    "answerOptions": [
+      { "text": "make", "isCorrect": true, "rationale": "make a complaint 是固定搭配，表示「提出抱怨」。" },
+      { "text": "do", "isCorrect": false, "rationale": "do a complaint 不是正確搭配。" },
+      { "text": "give", "isCorrect": false, "rationale": "give a complaint 不是此處最自然的商務英文搭配。" },
+      { "text": "build", "isCorrect": false, "rationale": "build 表示建造，不符合提出抱怨的語意。" }
+    ]
+  },
+  {
+    "question": "The project has _______ significant progress since last month.",
+    "hint": "固定搭配，表示取得進展。",
+    "answerOptions": [
+      { "text": "made", "isCorrect": true, "rationale": "make progress 是固定搭配；has 後面接過去分詞 made。" },
+      { "text": "done", "isCorrect": false, "rationale": "do progress 不是正確搭配。" },
+      { "text": "created", "isCorrect": false, "rationale": "create progress 不如 make progress 自然，也不是多益常考搭配。" },
+      { "text": "performed", "isCorrect": false, "rationale": "perform progress 不是正確搭配。" }
+    ]
+  },
+  {
+    "question": "Please _______ changes to the report before submitting it.",
+    "hint": "固定搭配，表示做出更改。",
+    "answerOptions": [
+      { "text": "make", "isCorrect": true, "rationale": "make changes 是固定搭配，表示「做出更改」。" },
+      { "text": "do", "isCorrect": false, "rationale": "do changes 不是自然搭配。" },
+      { "text": "take", "isCorrect": false, "rationale": "take changes 不符合此處語意。" },
+      { "text": "put", "isCorrect": false, "rationale": "put changes 不是正確搭配；可說 make changes to a report。" }
+    ]
+  }
+]
